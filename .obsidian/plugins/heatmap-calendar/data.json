@@ -1,0 +1,66 @@
+{
+  "year": 2024,
+  "colors": {
+    "default": [
+      "#c6e48b",
+      "#7bc96f",
+      "#49af5d",
+      "#2e8840",
+      "#196127"
+    ],
+    "Blue": [
+      "#8cb9ff",
+      "#69a3ff",
+      "#428bff",
+      "#1872ff",
+      "#0058e2"
+    ],
+    "Green": [
+      "#c6e48b",
+      "#7bc96f",
+      "#49af5d",
+      "#2e8840",
+      "#196127"
+    ],
+    "Red": [
+      "#ff9e82",
+      "#ff7b55",
+      "#ff4d1a",
+      "#e73400",
+      "#bd2a00"
+    ],
+    "Orange": [
+      "#ffa244",
+      "#fd7f00",
+      "#dd6f00",
+      "#bf6000",
+      "#9b4e00"
+    ],
+    "Pink": [
+      "#ff96cb",
+      "#ff70b8",
+      "#ff3a9d",
+      "#ee0077",
+      "#c30062"
+    ],
+    "Magenta": [
+      "#fd94fd",
+      "#e97cf3",
+      "#d561ea",
+      "#c042e2",
+      "#aa0dda"
+    ]
+  },
+  "entries": [
+    {
+      "date": "1900-01-01",
+      "color": "#7bc96f",
+      "intensity": 5,
+      "content": ""
+    }
+  ],
+  "showCurrentDayBorder": true,
+  "defaultEntryIntensity": 4,
+  "intensityScaleStart": 1,
+  "intensityScaleEnd": 5
+}

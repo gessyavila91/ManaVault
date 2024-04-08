@@ -1,0 +1,20 @@
+alias a=Assets
+alias b=Assets:Banking
+alias c=Liabilities:Credit
+alias l=Liabilities 
+alias e=Expenses 
+alias i=Income 
+alias ia=Income:Activo 
+alias ip=Income:Pasivo 
+
+2024-04-01 Starting Balances
+    b:Citbanamex Deb $235761.30
+    b:NU $0.0
+    ip:NuCajita $0.0
+    ip:PC Manzano $0.0
+    ia:Trabajo: ClaseAzul $0.0
+    e:CarteraWallet $0.0
+    e:CC CBmx Gold $0.0
+    l:DeudaChayo $-4,198.75
+    c:CCBmxGold $-2,350.75
+    Inicio de Balance (Profit)
