@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4587c2dee96461bc",
+        "id": "1ce3a58984cdf99e",
         "type": "tabs",
         "children": [
           {
-            "id": "a18f1597ba631d50",
+            "id": "df8ad88514dbbeaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXAMPLE_VAULT/Overview extended.md",
+                "file": "2024-09-14.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e12a7284bf12a367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EXAMPLE_VAULT/Overview.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EXAMPLE_VAULT/Overview extended.md",
+                "file": "2024-09-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EXAMPLE_VAULT/Overview extended.md",
+                "file": "2024-09-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,39 +125,59 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXAMPLE_VAULT/Overview extended.md"
+                "file": "2024-09-14.md"
               }
             }
+          },
+          {
+            "id": "2c79ca2a085b81b3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e66107ebfa2208ad",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "ledger-obsidian:Add to Ledger": false
+      "ledger-obsidian:Add to Ledger": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a18f1597ba631d50",
+  "active": "df8ad88514dbbeaf",
   "lastOpenFiles": [
-    "README.md",
-    "EXAMPLE_VAULT/Overview.md",
-    "EXAMPLE_VAULT/Overview extended.md",
-    "ledger.md",
-    "Sin título.canvas",
-    "daily notes/2024-04-08.md",
+    "2024-09-14.md",
     "transactions.ledger",
-    "daily notes/2022-01-01.md",
+    "EXAMPLE_VAULT/Overview.md",
     "daily notes/2023-01-03.md",
+    "daily notes/2024-04-08.md",
+    "daily notes/2022-01-01.md",
+    "ledger.md",
+    "HeatMap.md",
+    "POKEMON Master Challange.md",
+    "README.md",
+    "EXAMPLE_VAULT/Overview extended.md",
+    "Sin título.canvas",
     "daily notes/Sin título.md",
     "daily notes/2022-01-02.md",
     "daily notes/2022-03-16.md",
@@ -181,14 +189,10 @@
     "daily notes/2022-04-04.md",
     "daily notes/2022-04-06.md",
     "daily notes/2022-04-09.md",
-    "HeatMap.md",
     "daily notes/2022-04-15.md",
     "daily notes/2022-04-14.md",
     "daily notes/2022-04-13.md",
     "daily notes/2022-04-12.md",
-    "daily notes/2022-04-11.md",
-    "daily notes/2022-04-10.md",
-    "daily notes/2022-04-08.md",
     "daily notes",
     "EXAMPLE_VAULT"
   ]

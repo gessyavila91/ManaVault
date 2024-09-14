@@ -1,7 +1,6 @@
 [
-  "ledger-obsidian",
-  "heatmap-calendar",
-  "dataview",
+  "calendar",
   "obsidian-git",
-  "obsidian-kanban"
+  "heatmap-calendar",
+  "obsidian-tasks-plugin"
 ]
