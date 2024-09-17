@@ -2,5 +2,10 @@
   "calendar",
   "obsidian-git",
   "heatmap-calendar",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-day-planner",
+  "dataview",
+  "obsidian-activity-history",
+  "contribution-graph",
+  "templater-obsidian"
 ]
