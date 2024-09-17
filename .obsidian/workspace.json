@@ -4,21 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "a5586348df6fb338",
+        "id": "6688ee26f7ca277c",
         "type": "tabs",
         "children": [
           {
-            "id": "aa0fc417791bb0d5",
+            "id": "5957014b3ddddec2",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "2024-09-14.md",
-                "staged": false
+                "file": "templater/task.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
         ]
+      },
+      {
+        "id": "632941c670aa223b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0e8ad7c0f5e0aa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blueprint/BP - Day Planner.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "34ce67fec2944646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataTableViewer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9bbed511a6469db6",
@@ -84,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templater/task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templater/task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templater/task.md"
+              }
             }
           },
           {
@@ -153,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5
+    "width": 597.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,20 +207,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa0fc417791bb0d5",
+  "active": "5957014b3ddddec2",
   "lastOpenFiles": [
-    "templater/scheduler.md",
     "DataTableViewer.md",
     "templater/task.md",
     "Blueprint/BP - Day Planner.md",
+    "Blueprint/BP - Task List.md",
+    "daily notes/2024-09-14.md",
     "Blueprint/horarios.md",
     "Blueprint/Blueprint.md",
-    "Blueprint/BP - Task List.md",
-    "Programacion 🖥️.md",
+    "templater/scheduler.md",
     "Mecanografia ⌨️.md",
+    "Programacion 🖥️.md",
     "Blueprint/BP - Scheduler.md",
     "schedul.json",
-    "daily notes/2024-09-14.md",
     "Devs/Ideas millonarias.md",
     "templater/D.md",
     "templater",
