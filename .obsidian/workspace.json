@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprint/horarios.md",
+                "file": "daily notes/2024-09-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blueprint/horarios.md",
+                "file": "daily notes/2024-09-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blueprint/horarios.md",
+                "file": "daily notes/2024-09-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blueprint/horarios.md"
+                "file": "daily notes/2024-09-17.md"
               }
             }
           },
@@ -205,11 +205,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "34ce67fec2944646",
+  "active": "72ecf1935d987700",
   "lastOpenFiles": [
+    "Blueprint/BP - Scheduler.md",
+    "DataTableViewer.md",
+    "Blueprint/horarios.md",
     "daily notes/2024-09-17.md",
     "config/schemas/WeekPlanerYAML.md",
-    "DataTableViewer.md",
     "templater/dailyTask.md",
     "templater/scheduler.md",
     "Sin título.md",
@@ -217,11 +219,9 @@
     "config/schemas",
     "daily notes/2024-09-14.md",
     "Blueprint/BP - Task List.md",
-    "Blueprint/horarios.md",
     "Blueprint/Blueprint.md",
     "Mecanografia ⌨️.md",
     "Programacion 🖥️.md",
-    "Blueprint/BP - Scheduler.md",
     "schedul.json",
     "Devs/Ideas millonarias.md",
     "templater/D.md",
