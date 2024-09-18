@@ -3,4 +3,4 @@ los blueprint son notas en las cuales tenemos machotes para copiar en notas diar
 Lista
 [[BP - Task List]] 
 [[BP - Scheduler]]
-[[BP - Day Planner]]
+[[WeekPlanerYAML]]

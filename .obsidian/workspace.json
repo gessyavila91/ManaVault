@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templater/task.md",
+                "file": "templater/dailyTask.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,19 +26,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0e8ad7c0f5e0aa8",
+            "id": "34ce67fec2944646",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blueprint/BP - Day Planner.md",
+                "file": "Blueprint/horarios.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "34ce67fec2944646",
+            "id": "34e7e938324ab61f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9bbed511a6469db6",
@@ -117,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templater/task.md",
+                "file": "Blueprint/horarios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templater/task.md",
+                "file": "Blueprint/horarios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templater/task.md"
+                "file": "Blueprint/horarios.md"
               }
             }
           },
@@ -186,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -207,16 +205,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5957014b3ddddec2",
+  "active": "34ce67fec2944646",
   "lastOpenFiles": [
+    "daily notes/2024-09-17.md",
+    "config/schemas/WeekPlanerYAML.md",
     "DataTableViewer.md",
-    "templater/task.md",
-    "Blueprint/BP - Day Planner.md",
-    "Blueprint/BP - Task List.md",
+    "templater/dailyTask.md",
+    "templater/scheduler.md",
+    "Sin título.md",
+    "config",
+    "config/schemas",
     "daily notes/2024-09-14.md",
+    "Blueprint/BP - Task List.md",
     "Blueprint/horarios.md",
     "Blueprint/Blueprint.md",
-    "templater/scheduler.md",
     "Mecanografia ⌨️.md",
     "Programacion 🖥️.md",
     "Blueprint/BP - Scheduler.md",
@@ -238,9 +240,6 @@
     "README.md",
     "EXAMPLE_VAULT/Overview extended.md",
     "Sin título.canvas",
-    "daily notes/Sin título.md",
-    "daily notes/2022-01-02.md",
-    "daily notes/2022-03-16.md",
     "daily notes",
     "EXAMPLE_VAULT"
   ]
