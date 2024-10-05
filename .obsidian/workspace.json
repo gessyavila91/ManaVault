@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2024-09-14.md",
+                "file": "daily notes/2024-10-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "right": {
     "id": "9bbed511a6469db6",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily notes/2024-09-14.md",
+                "file": "daily notes/2024-10-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily notes/2024-09-14.md",
+                "file": "daily notes/2024-10-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2024-09-14.md"
+                "file": "daily notes/2024-10-05.md"
               }
             }
           },
@@ -176,30 +177,32 @@
   },
   "active": "41a1c99f97bbac17",
   "lastOpenFiles": [
-    "dailyTaskModule.md",
     "templater/daily_note_autamator.md",
-    "templater/dailyTask.md",
-    "Templated/daily-note.md",
     "daily notes/2024-10-05.md",
+    "Templated/daily-note.md",
+    "Devs/Programacion 🖥️.md",
+    "DataTableViewer.md",
+    "Heatmap.md",
+    "dailyTaskModule.md",
+    "Mecanografia ⌨️.md",
+    "Series a ver.md",
+    "Pasted image 20241003003006.png",
+    "daily notes/2024-09-14.md",
+    "templater/dailyTask.md",
     "daily notes/2024-09-17.md",
     "Scripts/my_script.js",
     "Scripts/my_script",
     "Scripts",
     "Sin título.md",
     "Sin título 1.md",
-    "DataTableViewer.md",
     "config/schemas/WeekPlanerYAML.md",
     "Blueprint/BP - Scheduler.md",
     "Blueprint/BP - Task List.md",
     "Blueprint/horarios.md",
-    "daily notes/2024-09-14.md",
     "Devs/Ideas millonarias.md",
     "Juegos/pokemon Api Info.md",
     "Juegos/PythonToolPokemonIdeas.md",
     "Juegos/GBA/Pokemon Esmeralda (3DS) Tid 1128.md",
-    "Devs/Programacion 🖥️.md",
-    "Pasted image 20241003003006.png",
-    "Series a ver.md",
     "Juegos/pokemon gen3 icon.md",
     "Juegos/GBA/ToolMons.md",
     "Juegos/assets/ico-a_old_286.gif",
@@ -219,7 +222,6 @@
     "Scripts/scDailyTask.js",
     "Scripts/scDailyTask",
     "Scripts",
-    "templater/scheduler.md",
     "Templated",
     "Sin título.canvas"
   ]

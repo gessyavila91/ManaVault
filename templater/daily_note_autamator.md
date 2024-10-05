@@ -1,4 +1,3 @@
-# Tareas del día
 
 <%*
 // Cargar y mostrar las tareas sin horario desde el archivo de tareas
@@ -6,8 +5,6 @@ const taskFilePath = "Blueprint/BP - Task List.md";
 let taskContent = await app.vault.adapter.read(taskFilePath);
 tR += taskContent;
 %>
-
-# Plan del día
 
 <%*
 // Definir la ruta del archivo .md
@@ -65,21 +62,21 @@ lines.forEach(line => {
 		        currentDay = line.replace('nombre:', '').trim().replace(/"/g, '');
 		        output += `### ${currentDay}\n\n`;
 		    }
-		
-		    // Detectar actividad
-		    if (line.startsWith('- actividad:')) {
-		        currentActivity = line.replace('actividad:', '').trim().replace(/"/g, '');
-		    }
-		
+			
 		    // Detectar hora de inicio
 		    if (line.startsWith('horaInicio:')) {
 		        currentStartTime = line.replace('horaInicio:', '').trim().replace(/"/g, '');
+		    }
+						
+		    // Detectar actividad
+		    if (line.startsWith('- actividad:')) {
+		        currentActivity = line.replace('- actividad:', '').trim().replace(/"/g, '');
 		    }
 		
 		    // Detectar hora de fin
 		    if (line.startsWith('horaFin:')) {
 		        currentEndTime = line.replace('horaFin:', '').trim().replace(/"/g, '');
-		        output += `- [ ] ${currentActivity} (${currentStartTime} - ${currentEndTime})\n`;
+		        output += `- [ ] ${currentStartTime} - ${currentEndTime} ${currentActivity} \n`;
 		    }   
 		}
     }

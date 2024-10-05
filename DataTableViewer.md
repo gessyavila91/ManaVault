@@ -10,16 +10,3 @@ flatten semana.dias as dia
 flatten dia.actividades as actividad
 
 ```
-
-
-
-## Semana B
-
-### -  Miércoles
-
-- [ ] -  ⌨️ Mecanografia (08:30 - 09:15)
-- [ ] -  🎥 Video Programacion (09:15 - 09:30)
-- [ ] -  💻 Programacion (09:30 - 13:30)
-- [ ] -  📘 Ingles (13:30 - 16:00)
-- [ ] -  🎨 Pintar miniaturas (16:00 - 20:00)
-
