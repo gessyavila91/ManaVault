@@ -1,0 +1,426 @@
+# livinDex Tracker
+# 1 001 - 030
+|   Dexnumber | Name       | Image                                                                                               |
+|------------:|:-----------|:----------------------------------------------------------------------------------------------------|
+|           1 | Bulbasaur  | ![#001 Bulbasaur](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_001.gif)  |
+|           2 | Ivysaur    | ![#002 Ivysaur](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_002.gif)    |
+|           3 | Venusaur   | ![#003 Venusaur](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_003.gif)   |
+|           4 | Charmander | ![#004 Charmander](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_004.gif) |
+|           5 | Charmeleon | ![#005 Charmeleon](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_005.gif) |
+|           6 | Charizard  | ![#006 Charizard](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_006.gif)  |
+|           7 | Squirtle   | ![#007 Squirtle](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_007.gif)   |
+|           8 | Wartortle  | ![#008 Wartortle](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_008.gif)  |
+|           9 | Blastoise  | ![#009 Blastoise](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_009.gif)  |
+|          10 | Caterpie   | ![#010 Caterpie](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_010.gif)   |
+|          11 | Metapod    | ![#011 Metapod](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_011.gif)    |
+|          12 | Butterfree | ![#012 Butterfree](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_012.gif) |
+|          13 | Weedle     | ![#013 Weedle](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_013.gif)     |
+|          14 | Kakuna     | ![#014 Kakuna](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_014.gif)     |
+|          15 | Beedrill   | ![#015 Beedrill](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_015.gif)   |
+|          16 | Pidgey     | ![#016 Pidgey](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_016.gif)     |
+|          17 | Pidgeotto  | ![#017 Pidgeotto](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_017.gif)  |
+|          18 | Pidgeot    | ![#018 Pidgeot](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_018.gif)    |
+|          19 | Rattata    | ![#019 Rattata](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_019.gif)    |
+|          20 | Raticate   | ![#020 Raticate](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_020.gif)   |
+|          21 | Spearow    | ![#021 Spearow](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_021.gif)    |
+|          22 | Fearow     | ![#022 Fearow](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_022.gif)     |
+|          23 | Ekans      | ![#023 Ekans](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_023.gif)      |
+|          24 | Arbok      | ![#024 Arbok](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_024.gif)      |
+|          25 | Pikachu    | ![#025 Pikachu](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_025.gif)    |
+|          26 | Raichu     | ![#026 Raichu](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_026.gif)     |
+|          27 | Sandshrew  | ![#027 Sandshrew](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_027.gif)  |
+|          28 | Sandslash  | ![#028 Sandslash](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_028.gif)  |
+|          29 | Nidoran    | ![#029 Nidoran](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_029.gif)    |
+|          30 | Nidorina   | ![#030 Nidorina](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_030.gif)   |
+# 2 031 - 060
+|   Dexnumber | Name       | Image                                                                                               |
+|------------:|:-----------|:----------------------------------------------------------------------------------------------------|
+|          31 | Nidoqueen  | ![#031 Nidoqueen](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_031.gif)  |
+|          32 | Nidoran    | ![#032 Nidoran](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_032.gif)    |
+|          33 | Nidorino   | ![#033 Nidorino](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_033.gif)   |
+|          34 | Nidoking   | ![#034 Nidoking](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_034.gif)   |
+|          35 | Clefairy   | ![#035 Clefairy](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_035.gif)   |
+|          36 | Clefable   | ![#036 Clefable](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_036.gif)   |
+|          37 | Vulpix     | ![#037 Vulpix](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_037.gif)     |
+|          38 | Ninetales  | ![#038 Ninetales](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_038.gif)  |
+|          39 | Jigglypuff | ![#039 Jigglypuff](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_039.gif) |
+|          40 | Wigglytuff | ![#040 Wigglytuff](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_040.gif) |
+|          41 | Zubat      | ![#041 Zubat](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_041.gif)      |
+|          42 | Golbat     | ![#042 Golbat](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_042.gif)     |
+|          43 | Oddish     | ![#043 Oddish](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_043.gif)     |
+|          44 | Gloom      | ![#044 Gloom](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_044.gif)      |
+|          45 | Vileplume  | ![#045 Vileplume](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_045.gif)  |
+|          46 | Paras      | ![#046 Paras](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_046.gif)      |
+|          47 | Parasect   | ![#047 Parasect](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_047.gif)   |
+|          48 | Venonat    | ![#048 Venonat](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_048.gif)    |
+|          49 | Venomoth   | ![#049 Venomoth](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_049.gif)   |
+|          50 | Diglett    | ![#050 Diglett](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_050.gif)    |
+|          51 | Dugtrio    | ![#051 Dugtrio](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_051.gif)    |
+|          52 | Meowth     | ![#052 Meowth](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_052.gif)     |
+|          53 | Persian    | ![#053 Persian](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_053.gif)    |
+|          54 | Psyduck    | ![#054 Psyduck](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_054.gif)    |
+|          55 | Golduck    | ![#055 Golduck](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_055.gif)    |
+|          56 | Mankey     | ![#056 Mankey](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_056.gif)     |
+|          57 | Primeape   | ![#057 Primeape](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_057.gif)   |
+|          58 | Growlithe  | ![#058 Growlithe](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_058.gif)  |
+|          59 | Arcanine   | ![#059 Arcanine](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_059.gif)   |
+|          60 | Poliwag    | ![#060 Poliwag](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_060.gif)    |
+# 3 061 - 090
+|   Dexnumber | Name       | Image                                                                                               |
+|------------:|:-----------|:----------------------------------------------------------------------------------------------------|
+|          61 | Poliwhirl  | ![#061 Poliwhirl](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_061.gif)  |
+|          62 | Poliwrath  | ![#062 Poliwrath](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_062.gif)  |
+|          63 | Abra       | ![#063 Abra](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_063.gif)       |
+|          64 | Kadabra    | ![#064 Kadabra](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_064.gif)    |
+|          65 | Alakazam   | ![#065 Alakazam](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_065.gif)   |
+|          66 | Machop     | ![#066 Machop](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_066.gif)     |
+|          67 | Machoke    | ![#067 Machoke](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_067.gif)    |
+|          68 | Machamp    | ![#068 Machamp](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_068.gif)    |
+|          69 | Bellsprout | ![#069 Bellsprout](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_069.gif) |
+|          70 | Weepinbell | ![#070 Weepinbell](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_070.gif) |
+|          71 | Victreebel | ![#071 Victreebel](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_071.gif) |
+|          72 | Tentacool  | ![#072 Tentacool](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_072.gif)  |
+|          73 | Tentacruel | ![#073 Tentacruel](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_073.gif) |
+|          74 | Geodude    | ![#074 Geodude](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_074.gif)    |
+|          75 | Graveler   | ![#075 Graveler](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_075.gif)   |
+|          76 | Golem      | ![#076 Golem](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_076.gif)      |
+|          77 | Ponyta     | ![#077 Ponyta](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_077.gif)     |
+|          78 | Rapidash   | ![#078 Rapidash](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_078.gif)   |
+|          79 | Slowpoke   | ![#079 Slowpoke](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_079.gif)   |
+|          80 | Slowbro    | ![#080 Slowbro](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_080.gif)    |
+|          81 | Magnemite  | ![#081 Magnemite](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_081.gif)  |
+|          82 | Magneton   | ![#082 Magneton](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_082.gif)   |
+|          83 | Farfetch'd | ![#083 Farfetch'd](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_083.gif) |
+|          84 | Doduo      | ![#084 Doduo](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_084.gif)      |
+|          85 | Dodrio     | ![#085 Dodrio](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_085.gif)     |
+|          86 | Seel       | ![#086 Seel](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_086.gif)       |
+|          87 | Dewgong    | ![#087 Dewgong](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_087.gif)    |
+|          88 | Grimer     | ![#088 Grimer](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_088.gif)     |
+|          89 | Muk        | ![#089 Muk](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_089.gif)        |
+|          90 | Shellder   | ![#090 Shellder](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_090.gif)   |
+# 4 091 - 120
+|   Dexnumber | Name       | Image                                                                                               |
+|------------:|:-----------|:----------------------------------------------------------------------------------------------------|
+|          91 | Cloyster   | ![#091 Cloyster](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_091.gif)   |
+|          92 | Gastly     | ![#092 Gastly](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_092.gif)     |
+|          93 | Haunter    | ![#093 Haunter](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_093.gif)    |
+|          94 | Gengar     | ![#094 Gengar](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_094.gif)     |
+|          95 | Onix       | ![#095 Onix](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_095.gif)       |
+|          96 | Drowzee    | ![#096 Drowzee](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_096.gif)    |
+|          97 | Hypno      | ![#097 Hypno](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_097.gif)      |
+|          98 | Krabby     | ![#098 Krabby](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_098.gif)     |
+|          99 | Kingler    | ![#099 Kingler](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_099.gif)    |
+|         100 | Voltorb    | ![#100 Voltorb](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_100.gif)    |
+|         101 | Electrode  | ![#101 Electrode](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_101.gif)  |
+|         102 | Exeggcute  | ![#102 Exeggcute](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_102.gif)  |
+|         103 | Exeggutor  | ![#103 Exeggutor](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_103.gif)  |
+|         104 | Cubone     | ![#104 Cubone](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_104.gif)     |
+|         105 | Marowak    | ![#105 Marowak](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_105.gif)    |
+|         106 | Hitmonlee  | ![#106 Hitmonlee](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_106.gif)  |
+|         107 | Hitmonchan | ![#107 Hitmonchan](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_107.gif) |
+|         108 | Lickitung  | ![#108 Lickitung](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_108.gif)  |
+|         109 | Koffing    | ![#109 Koffing](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_109.gif)    |
+|         110 | Weezing    | ![#110 Weezing](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_110.gif)    |
+|         111 | Rhyhorn    | ![#111 Rhyhorn](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_111.gif)    |
+|         112 | Rhydon     | ![#112 Rhydon](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_112.gif)     |
+|         113 | Chansey    | ![#113 Chansey](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_113.gif)    |
+|         114 | Tangela    | ![#114 Tangela](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_114.gif)    |
+|         115 | Kangaskhan | ![#115 Kangaskhan](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_115.gif) |
+|         116 | Horsea     | ![#116 Horsea](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_116.gif)     |
+|         117 | Seadra     | ![#117 Seadra](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_117.gif)     |
+|         118 | Goldeen    | ![#118 Goldeen](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_118.gif)    |
+|         119 | Seaking    | ![#119 Seaking](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_119.gif)    |
+|         120 | Staryu     | ![#120 Staryu](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_120.gif)     |
+# 5 121 - 150
+|   Dexnumber | Name       | Image                                                                                               |
+|------------:|:-----------|:----------------------------------------------------------------------------------------------------|
+|         121 | Starmie    | ![#121 Starmie](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_121.gif)    |
+|         122 | Mr. Mime   | ![#122 Mr. Mime](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_122.gif)   |
+|         123 | Scyther    | ![#123 Scyther](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_123.gif)    |
+|         124 | Jynx       | ![#124 Jynx](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_124.gif)       |
+|         125 | Electabuzz | ![#125 Electabuzz](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_125.gif) |
+|         126 | Magmar     | ![#126 Magmar](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_126.gif)     |
+|         127 | Pinsir     | ![#127 Pinsir](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_127.gif)     |
+|         128 | Tauros     | ![#128 Tauros](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_128.gif)     |
+|         129 | Magikarp   | ![#129 Magikarp](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_129.gif)   |
+|         130 | Gyarados   | ![#130 Gyarados](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_130.gif)   |
+|         131 | Lapras     | ![#131 Lapras](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_131.gif)     |
+|         132 | Ditto      | ![#132 Ditto](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_132.gif)      |
+|         133 | Eevee      | ![#133 Eevee](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_133.gif)      |
+|         134 | Vaporeon   | ![#134 Vaporeon](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_134.gif)   |
+|         135 | Jolteon    | ![#135 Jolteon](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_135.gif)    |
+|         136 | Flareon    | ![#136 Flareon](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_136.gif)    |
+|         137 | Porygon    | ![#137 Porygon](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_137.gif)    |
+|         138 | Omanyte    | ![#138 Omanyte](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_138.gif)    |
+|         139 | Omastar    | ![#139 Omastar](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_139.gif)    |
+|         140 | Kabuto     | ![#140 Kabuto](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_140.gif)     |
+|         141 | Kabutops   | ![#141 Kabutops](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_141.gif)   |
+|         142 | Aerodactyl | ![#142 Aerodactyl](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_142.gif) |
+|         143 | Snorlax    | ![#143 Snorlax](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_143.gif)    |
+|         144 | Articuno   | ![#144 Articuno](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_144.gif)   |
+|         145 | Zapdos     | ![#145 Zapdos](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_145.gif)     |
+|         146 | Moltres    | ![#146 Moltres](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_146.gif)    |
+|         147 | Dratini    | ![#147 Dratini](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_147.gif)    |
+|         148 | Dragonair  | ![#148 Dragonair](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_148.gif)  |
+|         149 | Dragonite  | ![#149 Dragonite](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_149.gif)  |
+|         150 | Mewtwo     | ![#150 Mewtwo](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_150.gif)     |
+# 6 151 - 180
+|   Dexnumber | Name       | Image                                                                                               |
+|------------:|:-----------|:----------------------------------------------------------------------------------------------------|
+|         151 | Mew        | ![#151 Mew](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_151.gif)        |
+|         152 | Chikorita  | ![#152 Chikorita](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_152.gif)  |
+|         153 | Bayleef    | ![#153 Bayleef](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_153.gif)    |
+|         154 | Meganium   | ![#154 Meganium](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_154.gif)   |
+|         155 | Cyndaquil  | ![#155 Cyndaquil](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_155.gif)  |
+|         156 | Quilava    | ![#156 Quilava](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_156.gif)    |
+|         157 | Typhlosion | ![#157 Typhlosion](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_157.gif) |
+|         158 | Totodile   | ![#158 Totodile](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_158.gif)   |
+|         159 | Croconaw   | ![#159 Croconaw](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_159.gif)   |
+|         160 | Feraligatr | ![#160 Feraligatr](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_160.gif) |
+|         161 | Sentret    | ![#161 Sentret](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_161.gif)    |
+|         162 | Furret     | ![#162 Furret](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_162.gif)     |
+|         163 | Hoothoot   | ![#163 Hoothoot](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_163.gif)   |
+|         164 | Noctowl    | ![#164 Noctowl](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_164.gif)    |
+|         165 | Ledyba     | ![#165 Ledyba](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_165.gif)     |
+|         166 | Ledian     | ![#166 Ledian](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_166.gif)     |
+|         167 | Spinarak   | ![#167 Spinarak](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_167.gif)   |
+|         168 | Ariados    | ![#168 Ariados](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_168.gif)    |
+|         169 | Crobat     | ![#169 Crobat](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_169.gif)     |
+|         170 | Chinchou   | ![#170 Chinchou](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_170.gif)   |
+|         171 | Lanturn    | ![#171 Lanturn](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_171.gif)    |
+|         172 | Pichu      | ![#172 Pichu](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_172.gif)      |
+|         173 | Cleffa     | ![#173 Cleffa](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_173.gif)     |
+|         174 | Igglybuff  | ![#174 Igglybuff](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_174.gif)  |
+|         175 | Togepi     | ![#175 Togepi](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_175.gif)     |
+|         176 | Togetic    | ![#176 Togetic](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_176.gif)    |
+|         177 | Natu       | ![#177 Natu](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_177.gif)       |
+|         178 | Xatu       | ![#178 Xatu](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_178.gif)       |
+|         179 | Mareep     | ![#179 Mareep](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_179.gif)     |
+|         180 | Flaaffy    | ![#180 Flaaffy](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_180.gif)    |
+# 7 181 - 210
+|   Dexnumber | Name       | Image                                                                                               |
+|------------:|:-----------|:----------------------------------------------------------------------------------------------------|
+|         181 | Ampharos   | ![#181 Ampharos](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_181.gif)   |
+|         182 | Bellossom  | ![#182 Bellossom](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_182.gif)  |
+|         183 | Marill     | ![#183 Marill](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_183.gif)     |
+|         184 | Azumarill  | ![#184 Azumarill](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_184.gif)  |
+|         185 | Sudowoodo  | ![#185 Sudowoodo](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_185.gif)  |
+|         186 | Politoed   | ![#186 Politoed](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_186.gif)   |
+|         187 | Hoppip     | ![#187 Hoppip](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_187.gif)     |
+|         188 | Skiploom   | ![#188 Skiploom](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_188.gif)   |
+|         189 | Jumpluff   | ![#189 Jumpluff](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_189.gif)   |
+|         190 | Aipom      | ![#190 Aipom](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_190.gif)      |
+|         191 | Sunkern    | ![#191 Sunkern](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_191.gif)    |
+|         192 | Sunflora   | ![#192 Sunflora](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_192.gif)   |
+|         193 | Yanma      | ![#193 Yanma](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_193.gif)      |
+|         194 | Wooper     | ![#194 Wooper](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_194.gif)     |
+|         195 | Quagsire   | ![#195 Quagsire](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_195.gif)   |
+|         196 | Espeon     | ![#196 Espeon](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_196.gif)     |
+|         197 | Umbreon    | ![#197 Umbreon](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_197.gif)    |
+|         198 | Murkrow    | ![#198 Murkrow](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_198.gif)    |
+|         199 | Slowking   | ![#199 Slowking](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_199.gif)   |
+|         200 | Misdreavus | ![#200 Misdreavus](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_200.gif) |
+|         201 | Unown      | ![#201 Unown](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_201.gif)      |
+|         202 | Wobbuffet  | ![#202 Wobbuffet](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_202.gif)  |
+|         203 | Girafarig  | ![#203 Girafarig](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_203.gif)  |
+|         204 | Pineco     | ![#204 Pineco](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_204.gif)     |
+|         205 | Forretress | ![#205 Forretress](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_205.gif) |
+|         206 | Dunsparce  | ![#206 Dunsparce](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_206.gif)  |
+|         207 | Gligar     | ![#207 Gligar](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_207.gif)     |
+|         208 | Steelix    | ![#208 Steelix](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_208.gif)    |
+|         209 | Snubbull   | ![#209 Snubbull](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_209.gif)   |
+|         210 | Granbull   | ![#210 Granbull](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_210.gif)   |
+# 8 211 - 240
+|   Dexnumber | Name      | Image                                                                                              |
+|------------:|:----------|:---------------------------------------------------------------------------------------------------|
+|         211 | Qwilfish  | ![#211 Qwilfish](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_211.gif)  |
+|         212 | Scizor    | ![#212 Scizor](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_212.gif)    |
+|         213 | Shuckle   | ![#213 Shuckle](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_213.gif)   |
+|         214 | Heracross | ![#214 Heracross](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_214.gif) |
+|         215 | Sneasel   | ![#215 Sneasel](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_215.gif)   |
+|         216 | Teddiursa | ![#216 Teddiursa](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_216.gif) |
+|         217 | Ursaring  | ![#217 Ursaring](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_217.gif)  |
+|         218 | Slugma    | ![#218 Slugma](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_218.gif)    |
+|         219 | Magcargo  | ![#219 Magcargo](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_219.gif)  |
+|         220 | Swinub    | ![#220 Swinub](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_220.gif)    |
+|         221 | Piloswine | ![#221 Piloswine](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_221.gif) |
+|         222 | Corsola   | ![#222 Corsola](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_222.gif)   |
+|         223 | Remoraid  | ![#223 Remoraid](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_223.gif)  |
+|         224 | Octillery | ![#224 Octillery](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_224.gif) |
+|         225 | Delibird  | ![#225 Delibird](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_225.gif)  |
+|         226 | Mantine   | ![#226 Mantine](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_226.gif)   |
+|         227 | Skarmory  | ![#227 Skarmory](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_227.gif)  |
+|         228 | Houndour  | ![#228 Houndour](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_228.gif)  |
+|         229 | Houndoom  | ![#229 Houndoom](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_229.gif)  |
+|         230 | Kingdra   | ![#230 Kingdra](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_230.gif)   |
+|         231 | Phanpy    | ![#231 Phanpy](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_231.gif)    |
+|         232 | Donphan   | ![#232 Donphan](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_232.gif)   |
+|         233 | Porygon2  | ![#233 Porygon2](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_233.gif)  |
+|         234 | Stantler  | ![#234 Stantler](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_234.gif)  |
+|         235 | Smeargle  | ![#235 Smeargle](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_235.gif)  |
+|         236 | Tyrogue   | ![#236 Tyrogue](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_236.gif)   |
+|         237 | Hitmontop | ![#237 Hitmontop](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_237.gif) |
+|         238 | Smoochum  | ![#238 Smoochum](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_238.gif)  |
+|         239 | Elekid    | ![#239 Elekid](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_239.gif)    |
+|         240 | Magby     | ![#240 Magby](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_240.gif)     |
+# 9 241 - 270
+|   Dexnumber | Name      | Image                                                                                              |
+|------------:|:----------|:---------------------------------------------------------------------------------------------------|
+|         241 | Miltank   | ![#241 Miltank](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_241.gif)   |
+|         242 | Blissey   | ![#242 Blissey](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_242.gif)   |
+|         243 | Raikou    | ![#243 Raikou](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_243.gif)    |
+|         244 | Entei     | ![#244 Entei](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_244.gif)     |
+|         245 | Suicune   | ![#245 Suicune](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_245.gif)   |
+|         246 | Larvitar  | ![#246 Larvitar](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_246.gif)  |
+|         247 | Pupitar   | ![#247 Pupitar](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_247.gif)   |
+|         248 | Tyranitar | ![#248 Tyranitar](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_248.gif) |
+|         249 | Lugia     | ![#249 Lugia](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_249.gif)     |
+|         250 | Ho-oh     | ![#250 Ho-oh](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_250.gif)     |
+|         251 | Celebi    | ![#251 Celebi](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_251.gif)    |
+|         252 | Treecko   | ![#252 Treecko](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_252.gif)   |
+|         253 | Grovyle   | ![#253 Grovyle](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_253.gif)   |
+|         254 | Sceptile  | ![#254 Sceptile](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_254.gif)  |
+|         255 | Torchic   | ![#255 Torchic](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_255.gif)   |
+|         256 | Combusken | ![#256 Combusken](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_256.gif) |
+|         257 | Blaziken  | ![#257 Blaziken](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_257.gif)  |
+|         258 | Mudkip    | ![#258 Mudkip](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_258.gif)    |
+|         259 | Marshtomp | ![#259 Marshtomp](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_259.gif) |
+|         260 | Swampert  | ![#260 Swampert](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_260.gif)  |
+|         261 | Poochyena | ![#261 Poochyena](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_261.gif) |
+|         262 | Mightyena | ![#262 Mightyena](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_262.gif) |
+|         263 | Zigzagoon | ![#263 Zigzagoon](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_263.gif) |
+|         264 | Linoone   | ![#264 Linoone](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_264.gif)   |
+|         265 | Wurmple   | ![#265 Wurmple](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_265.gif)   |
+|         266 | Silcoon   | ![#266 Silcoon](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_266.gif)   |
+|         267 | Beautifly | ![#267 Beautifly](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_267.gif) |
+|         268 | Cascoon   | ![#268 Cascoon](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_268.gif)   |
+|         269 | Dustox    | ![#269 Dustox](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_269.gif)    |
+|         270 | Lotad     | ![#270 Lotad](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_270.gif)     |
+# 10 271 - 300
+|   Dexnumber | Name       | Image                                                                                               |
+|------------:|:-----------|:----------------------------------------------------------------------------------------------------|
+|         271 | Lombre     | ![#271 Lombre](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_271.gif)     |
+|         272 | Ludicolo   | ![#272 Ludicolo](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_272.gif)   |
+|         273 | Seedot     | ![#273 Seedot](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_273.gif)     |
+|         274 | Nuzleaf    | ![#274 Nuzleaf](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_274.gif)    |
+|         275 | Shiftry    | ![#275 Shiftry](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_275.gif)    |
+|         276 | Taillow    | ![#276 Taillow](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_276.gif)    |
+|         277 | Swellow    | ![#277 Swellow](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_277.gif)    |
+|         278 | Wingull    | ![#278 Wingull](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_278.gif)    |
+|         279 | Pelipper   | ![#279 Pelipper](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_279.gif)   |
+|         280 | Ralts      | ![#280 Ralts](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_280.gif)      |
+|         281 | Kirlia     | ![#281 Kirlia](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_281.gif)     |
+|         282 | Gardevoir  | ![#282 Gardevoir](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_282.gif)  |
+|         283 | Surskit    | ![#283 Surskit](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_283.gif)    |
+|         284 | Masquerain | ![#284 Masquerain](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_284.gif) |
+|         285 | Shroomish  | ![#285 Shroomish](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_285.gif)  |
+|         286 | Breloom    | ![#286 Breloom](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_286.gif)    |
+|         287 | Slakoth    | ![#287 Slakoth](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_287.gif)    |
+|         288 | Vigoroth   | ![#288 Vigoroth](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_288.gif)   |
+|         289 | Slaking    | ![#289 Slaking](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_289.gif)    |
+|         290 | Nincada    | ![#290 Nincada](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_290.gif)    |
+|         291 | Ninjask    | ![#291 Ninjask](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_291.gif)    |
+|         292 | Shedinja   | ![#292 Shedinja](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_292.gif)   |
+|         293 | Whismur    | ![#293 Whismur](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_293.gif)    |
+|         294 | Loudred    | ![#294 Loudred](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_294.gif)    |
+|         295 | Exploud    | ![#295 Exploud](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_295.gif)    |
+|         296 | Makuhita   | ![#296 Makuhita](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_296.gif)   |
+|         297 | Hariyama   | ![#297 Hariyama](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_297.gif)   |
+|         298 | Azurill    | ![#298 Azurill](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_298.gif)    |
+|         299 | Nosepass   | ![#299 Nosepass](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_299.gif)   |
+|         300 | Skitty     | ![#300 Skitty](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_300.gif)     |
+# 11 301 - 330
+|   Dexnumber | Name      | Image                                                                                              |
+|------------:|:----------|:---------------------------------------------------------------------------------------------------|
+|         301 | Delcatty  | ![#301 Delcatty](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_301.gif)  |
+|         302 | Sableye   | ![#302 Sableye](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_302.gif)   |
+|         303 | Mawile    | ![#303 Mawile](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_303.gif)    |
+|         304 | Aron      | ![#304 Aron](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_304.gif)      |
+|         305 | Lairon    | ![#305 Lairon](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_305.gif)    |
+|         306 | Aggron    | ![#306 Aggron](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_306.gif)    |
+|         307 | Meditite  | ![#307 Meditite](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_307.gif)  |
+|         308 | Medicham  | ![#308 Medicham](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_308.gif)  |
+|         309 | Electrike | ![#309 Electrike](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_309.gif) |
+|         310 | Manectric | ![#310 Manectric](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_310.gif) |
+|         311 | Plusle    | ![#311 Plusle](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_311.gif)    |
+|         312 | Minun     | ![#312 Minun](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_312.gif)     |
+|         313 | Volbeat   | ![#313 Volbeat](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_313.gif)   |
+|         314 | Illumise  | ![#314 Illumise](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_314.gif)  |
+|         315 | Roselia   | ![#315 Roselia](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_315.gif)   |
+|         316 | Gulpin    | ![#316 Gulpin](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_316.gif)    |
+|         317 | Swalot    | ![#317 Swalot](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_317.gif)    |
+|         318 | Carvanha  | ![#318 Carvanha](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_318.gif)  |
+|         319 | Sharpedo  | ![#319 Sharpedo](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_319.gif)  |
+|         320 | Wailmer   | ![#320 Wailmer](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_320.gif)   |
+|         321 | Wailord   | ![#321 Wailord](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_321.gif)   |
+|         322 | Numel     | ![#322 Numel](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_322.gif)     |
+|         323 | Camerupt  | ![#323 Camerupt](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_323.gif)  |
+|         324 | Torkoal   | ![#324 Torkoal](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_324.gif)   |
+|         325 | Spoink    | ![#325 Spoink](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_325.gif)    |
+|         326 | Grumpig   | ![#326 Grumpig](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_326.gif)   |
+|         327 | Spinda    | ![#327 Spinda](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_327.gif)    |
+|         328 | Trapinch  | ![#328 Trapinch](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_328.gif)  |
+|         329 | Vibrava   | ![#329 Vibrava](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_329.gif)   |
+|         330 | Flygon    | ![#330 Flygon](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_330.gif)    |
+# 12 331 - 360
+|   Dexnumber | Name      | Image                                                                                              |
+|------------:|:----------|:---------------------------------------------------------------------------------------------------|
+|         331 | Cacnea    | ![#331 Cacnea](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_331.gif)    |
+|         332 | Cacturne  | ![#332 Cacturne](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_332.gif)  |
+|         333 | Swablu    | ![#333 Swablu](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_333.gif)    |
+|         334 | Altaria   | ![#334 Altaria](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_334.gif)   |
+|         335 | Zangoose  | ![#335 Zangoose](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_335.gif)  |
+|         336 | Seviper   | ![#336 Seviper](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_336.gif)   |
+|         337 | Lunatone  | ![#337 Lunatone](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_337.gif)  |
+|         338 | Solrock   | ![#338 Solrock](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_338.gif)   |
+|         339 | Barboach  | ![#339 Barboach](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_339.gif)  |
+|         340 | Whiscash  | ![#340 Whiscash](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_340.gif)  |
+|         341 | Corphish  | ![#341 Corphish](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_341.gif)  |
+|         342 | Crawdaunt | ![#342 Crawdaunt](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_342.gif) |
+|         343 | Baltoy    | ![#343 Baltoy](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_343.gif)    |
+|         344 | Claydol   | ![#344 Claydol](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_344.gif)   |
+|         345 | Lileep    | ![#345 Lileep](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_345.gif)    |
+|         346 | Cradily   | ![#346 Cradily](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_346.gif)   |
+|         347 | Anorith   | ![#347 Anorith](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_347.gif)   |
+|         348 | Armaldo   | ![#348 Armaldo](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_348.gif)   |
+|         349 | Feebas    | ![#349 Feebas](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_349.gif)    |
+|         350 | Milotic   | ![#350 Milotic](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_350.gif)   |
+|         351 | Castform  | ![#351 Castform](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_351.gif)  |
+|         352 | Kecleon   | ![#352 Kecleon](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_352.gif)   |
+|         353 | Shuppet   | ![#353 Shuppet](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_353.gif)   |
+|         354 | Banette   | ![#354 Banette](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_354.gif)   |
+|         355 | Duskull   | ![#355 Duskull](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_355.gif)   |
+|         356 | Dusclops  | ![#356 Dusclops](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_356.gif)  |
+|         357 | Tropius   | ![#357 Tropius](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_357.gif)   |
+|         358 | Chimecho  | ![#358 Chimecho](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_358.gif)  |
+|         359 | Absol     | ![#359 Absol](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_359.gif)     |
+|         360 | Wynaut    | ![#360 Wynaut](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_360.gif)    |
+# 13 361 - 386
+|   Dexnumber | Name      | Image                                                                                              |
+|------------:|:----------|:---------------------------------------------------------------------------------------------------|
+|         361 | Snorunt   | ![#361 Snorunt](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_361.gif)   |
+|         362 | Glalie    | ![#362 Glalie](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_362.gif)    |
+|         363 | Spheal    | ![#363 Spheal](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_363.gif)    |
+|         364 | Sealeo    | ![#364 Sealeo](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_364.gif)    |
+|         365 | Walrein   | ![#365 Walrein](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_365.gif)   |
+|         366 | Clamperl  | ![#366 Clamperl](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_366.gif)  |
+|         367 | Huntail   | ![#367 Huntail](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_367.gif)   |
+|         368 | Gorebyss  | ![#368 Gorebyss](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_368.gif)  |
+|         369 | Relicanth | ![#369 Relicanth](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_369.gif) |
+|         370 | Luvdisc   | ![#370 Luvdisc](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_370.gif)   |
+|         371 | Bagon     | ![#371 Bagon](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_371.gif)     |
+|         372 | Shelgon   | ![#372 Shelgon](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_372.gif)   |
+|         373 | Salamence | ![#373 Salamence](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_373.gif) |
+|         374 | Beldum    | ![#374 Beldum](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_374.gif)    |
+|         375 | Metang    | ![#375 Metang](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_375.gif)    |
+|         376 | Metagross | ![#376 Metagross](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_376.gif) |
+|         377 | Regirock  | ![#377 Regirock](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_377.gif)  |
+|         378 | Regice    | ![#378 Regice](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_378.gif)    |
+|         379 | Registeel | ![#379 Registeel](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_379.gif) |
+|         380 | Latias    | ![#380 Latias](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_380.gif)    |
+|         381 | Latios    | ![#381 Latios](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_381.gif)    |
+|         382 | Kyogre    | ![#382 Kyogre](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_382.gif)    |
+|         383 | Groudon   | ![#383 Groudon](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_383.gif)   |
+|         384 | Rayquaza  | ![#384 Rayquaza](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_384.gif)  |
+|         385 | Jirachi   | ![#385 Jirachi](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_385.gif)   |
+|         386 | Deoxys    | ![#386 Deoxys](https://www.pokencyclopedia.info/sprites/menu-icons/ico-a_old/ico-a_old_386.gif)    |

@@ -40,7 +40,7 @@ schema:
             - actividad: "🎨 Pintar miniaturas"
               horaInicio: "16:00"
               horaFin: "20:00"
-        - nombre: "Maiercoles"
+        - nombre: "Miércoles"
           actividades:
             - actividad: "⌨️ Mecanografia"
               horaInicio: "08:30"
@@ -144,7 +144,7 @@ schema:
             - actividad: "🎨 Pintar miniaturas"
               horaInicio: "16:00"
               horaFin: "20:00"
-        - nombre: "Maiercoles"
+        - nombre: "Miércoles"
           actividades:
             - actividad: "⌨️ Mecanografia"
               horaInicio: "08:30"
