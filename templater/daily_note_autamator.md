@@ -1,3 +1,14 @@
+# Tareas del día
+
+<%*
+// Cargar y mostrar las tareas sin horario desde el archivo de tareas
+const taskFilePath = "Blueprint/BP - Task List.md";
+let taskContent = await app.vault.adapter.read(taskFilePath);
+tR += taskContent;
+%>
+
+# Plan del día
+
 <%*
 // Definir la ruta del archivo .md
 const filePath = "config/schemas/WeekPlanerYAML.md";
@@ -26,10 +37,7 @@ const weekName = (moment().week() % 2 === 1) ? "Semana A" : "Semana B";
 moment.locale('es');
 var dayName = moment().format('dddd');
 dayName = dayName.charAt(0).toUpperCase() + dayName.slice(1);
-
 console.log(dayName);
-
-
 // Recorremos cada línea para extraer la información
 var bandera = false;
 var banderaDia = false;
@@ -37,7 +45,7 @@ lines.forEach(line => {
     line = line.trim();
     if (line.startsWith('nombre: "Semana')){
 	    bandera = line.includes(weekName);
-    }
+    } 
     
     if(bandera){
 	    // Detectar semana
@@ -78,7 +86,9 @@ lines.forEach(line => {
 });
 
 // Mostrar el resultado para verificar que las tareas se están generando correctamente
-console.log(output);
-
+// console.log(output);
 tR += output;
 %>
+
+
+# Notas

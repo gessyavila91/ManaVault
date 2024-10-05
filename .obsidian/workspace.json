@@ -4,46 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6688ee26f7ca277c",
+        "id": "ff8e50adb6bc11e0",
         "type": "tabs",
         "children": [
           {
-            "id": "5957014b3ddddec2",
+            "id": "41a1c99f97bbac17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templater/dailyTask.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "632941c670aa223b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "34ce67fec2944646",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily notes/2024-09-17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34e7e938324ab61f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataTableViewer.md",
+                "file": "daily notes/2024-09-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 334.5
   },
   "right": {
     "id": "9bbed511a6469db6",
@@ -115,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily notes/2024-09-17.md",
+                "file": "daily notes/2024-09-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily notes/2024-09-17.md",
+                "file": "daily notes/2024-09-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2024-09-17.md"
+                "file": "daily notes/2024-09-14.md"
               }
             }
           },
@@ -176,7 +146,7 @@
             }
           },
           {
-            "id": "542153eea2c43752",
+            "id": "31a7ac3a1d281a65",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -188,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5,
-    "collapsed": true
+    "width": 525.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,48 +168,59 @@
       "graph:Abrir vista gráfica": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "ledger-obsidian:Add to Ledger": false,
       "obsidian-git:Open Git source control": false,
       "command-palette:Abrir paleta de comandos": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "72ecf1935d987700",
+  "active": "41a1c99f97bbac17",
   "lastOpenFiles": [
-    "Blueprint/BP - Scheduler.md",
-    "DataTableViewer.md",
-    "Blueprint/horarios.md",
-    "daily notes/2024-09-17.md",
-    "config/schemas/WeekPlanerYAML.md",
+    "dailyTaskModule.md",
+    "templater/daily_note_autamator.md",
     "templater/dailyTask.md",
-    "templater/scheduler.md",
+    "Templated/daily-note.md",
+    "daily notes/2024-10-05.md",
+    "daily notes/2024-09-17.md",
+    "Scripts/my_script.js",
+    "Scripts/my_script",
+    "Scripts",
     "Sin título.md",
-    "config",
-    "config/schemas",
-    "daily notes/2024-09-14.md",
+    "Sin título 1.md",
+    "DataTableViewer.md",
+    "config/schemas/WeekPlanerYAML.md",
+    "Blueprint/BP - Scheduler.md",
     "Blueprint/BP - Task List.md",
-    "Blueprint/Blueprint.md",
-    "Mecanografia ⌨️.md",
-    "Programacion 🖥️.md",
-    "schedul.json",
+    "Blueprint/horarios.md",
+    "daily notes/2024-09-14.md",
     "Devs/Ideas millonarias.md",
-    "templater/D.md",
-    "templater",
-    "Heatmap.md",
-    "Devs",
-    "Blueprint",
-    "transactions.ledger",
-    "EXAMPLE_VAULT/Overview.md",
-    "daily notes/2023-01-03.md",
-    "daily notes/2024-04-08.md",
-    "daily notes/2022-01-01.md",
-    "ledger.md",
-    "HeatMap.md",
-    "POKEMON Master Challange.md",
-    "README.md",
-    "EXAMPLE_VAULT/Overview extended.md",
-    "Sin título.canvas",
-    "daily notes",
-    "EXAMPLE_VAULT"
+    "Juegos/pokemon Api Info.md",
+    "Juegos/PythonToolPokemonIdeas.md",
+    "Juegos/GBA/Pokemon Esmeralda (3DS) Tid 1128.md",
+    "Devs/Programacion 🖥️.md",
+    "Pasted image 20241003003006.png",
+    "Series a ver.md",
+    "Juegos/pokemon gen3 icon.md",
+    "Juegos/GBA/ToolMons.md",
+    "Juegos/assets/ico-a_old_286.gif",
+    "Juegos/assets/ico-a_old_235.gif",
+    "juegos/assets/ico-a_old_282 1.gif",
+    "Juegos/assets/ico-a_old_043.gif",
+    "Juegos/assets/ico-a_old_282.gif",
+    "juegos/assets/ico-a_old_264 1.gif",
+    "Juegos/assets/ico-a_old_264.gif",
+    "Juegos/assets",
+    "juegos/assets/ico-a_old_282 2.gif",
+    "Juegos/assets/ico-a_old_202.gif",
+    "Blueprint/Blueprint.md",
+    "Juegos/GBA",
+    "Juegos",
+    "daily notes/2024-09-18.md",
+    "Scripts/scDailyTask.js",
+    "Scripts/scDailyTask",
+    "Scripts",
+    "templater/scheduler.md",
+    "Templated",
+    "Sin título.canvas"
   ]
 }

@@ -1,5 +1,3 @@
-#blueprint
-
 ## Tareas del Hogar 
 - [ ] 🔁 every day 🔺 Dar la medicina a #Dante 
 - [ ] 🔁 every day 🔽  Limpiar el patio #Hogar

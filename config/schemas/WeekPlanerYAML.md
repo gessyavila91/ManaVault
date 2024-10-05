@@ -91,7 +91,7 @@ schema:
             - actividad: "🎮 Videojuegos"
               horaInicio: "16:00"
               horaFin: "20:00"
-        - nombre: "Sabado"
+        - nombre: "Sábado"
           actividades:
             - actividad: "📂 Preparara archivos para imprimir (3D)"
               horaInicio: "12:00"
@@ -195,7 +195,7 @@ schema:
             - actividad: "🎮 Videojuegos"
               horaInicio: "16:00"
               horaFin: "20:00"
-        - nombre: "Sabado"
+        - nombre: "Sábado"
           actividades:
             - actividad: "📂 Preparara archivos para imprimir (3D)"
               horaInicio: "12:00"
