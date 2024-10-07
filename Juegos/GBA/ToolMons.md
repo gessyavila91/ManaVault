@@ -1,6 +1,6 @@
 | Numero | Nombre                                | Tarea                         | Movimientos                                      | Naturaleza/Habilidad                           |
 | ------ | ------------------------------------- | ----------------------------- | ------------------------------------------------ | ---------------------------------------------- |
-| 286    | [[#Breloom]] ![[ico-a_old_286.gif]]                         | Captura                       | Falsotortazo, Espora                             | Habilidad: Efecto Espora                       |
+| 286    | [[#Breloom]] ![[ico-a_old_286.gif]]   | Captura                       | Falsotortazo, Espora                             | Habilidad: Efecto Espora                       |
 | 235    | Smeargle ![[ico-a_old_235.gif]]       | Captura y Versatilidad        | Falsotortazo, Espora, Somnífero, Mov. de crianza | Naturaleza: Jolly(Alegre), Habilidad: Flexible |
 | 264    | [[#Linoone]] ![[ico-a_old_264.gif]]   | Mo Slave + Pickup             | Corte, Surf, Cascada, Pickup                     | Habilidad: Recogida                            |
 | 43     | Oddish ![[ico-a_old_043.gif]]         | Dulce Aroma                   | Dulce Aroma                                      | N/A                                            |

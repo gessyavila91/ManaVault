@@ -1,17 +1,5 @@
-
 ## Tareas del Hogar 
 - [ ] 🔁 every day 🔺 Dar la medicina a #Dante 
 - [ ] 🔁 every day 🔽  Limpiar el patio #Hogar
 - [ ] 🔁 every day ⏬  Ir por tortillas #Hogar 
 
-
-## Semana B
-
-### -  Sábado
-
-- [ ] 12:00 - 14:00 📂 Preparara archivos para imprimir (3D) 
-- [ ] 16:00 - 23:00 🎮 Video Programacion 
-
-
-
-# Notas

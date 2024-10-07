@@ -1,7 +1,7 @@
 
 <%*
 // Cargar y mostrar las tareas sin horario desde el archivo de tareas
-const taskFilePath = "Blueprint/BP - Task List.md";
+const taskFilePath = "config/schemas/Daily Task.md";
 let taskContent = await app.vault.adapter.read(taskFilePath);
 tR += taskContent;
 %>

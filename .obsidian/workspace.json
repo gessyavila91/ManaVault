@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2024-10-05.md",
+                "file": "Juegos/GBA/ToolMons.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 334.5
   },
   "right": {
     "id": "9bbed511a6469db6",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily notes/2024-10-05.md",
+                "file": "Juegos/GBA/ToolMons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily notes/2024-10-05.md",
+                "file": "Juegos/GBA/ToolMons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2024-10-05.md"
+                "file": "Juegos/GBA/ToolMons.md"
               }
             }
           },
@@ -177,8 +176,17 @@
   },
   "active": "41a1c99f97bbac17",
   "lastOpenFiles": [
+    "Juegos/GBA/Pokemon Esmeralda (3DS) Tid 1128.md",
+    "Juegos/PythonToolPokemonIdeas.md",
     "templater/daily_note_autamator.md",
+    "Blueprint/BP - Task List.md",
+    "config/schemas/Daily Task.md",
+    "config/schemas/WeekPlanerYAML.md",
     "daily notes/2024-10-05.md",
+    "Blueprint/BP - Scheduler.md",
+    "Blueprint/Blueprint.md",
+    "Blueprint/horarios.md",
+    "Sin título.canvas",
     "Templated/daily-note.md",
     "Devs/Programacion 🖥️.md",
     "DataTableViewer.md",
@@ -195,14 +203,8 @@
     "Scripts",
     "Sin título.md",
     "Sin título 1.md",
-    "config/schemas/WeekPlanerYAML.md",
-    "Blueprint/BP - Scheduler.md",
-    "Blueprint/BP - Task List.md",
-    "Blueprint/horarios.md",
     "Devs/Ideas millonarias.md",
     "Juegos/pokemon Api Info.md",
-    "Juegos/PythonToolPokemonIdeas.md",
-    "Juegos/GBA/Pokemon Esmeralda (3DS) Tid 1128.md",
     "Juegos/pokemon gen3 icon.md",
     "Juegos/GBA/ToolMons.md",
     "Juegos/assets/ico-a_old_286.gif",
@@ -215,14 +217,11 @@
     "Juegos/assets",
     "juegos/assets/ico-a_old_282 2.gif",
     "Juegos/assets/ico-a_old_202.gif",
-    "Blueprint/Blueprint.md",
     "Juegos/GBA",
     "Juegos",
-    "daily notes/2024-09-18.md",
     "Scripts/scDailyTask.js",
     "Scripts/scDailyTask",
     "Scripts",
-    "Templated",
-    "Sin título.canvas"
+    "Templated"
   ]
 }
