@@ -1,0 +1,58 @@
+- #254 Sceptile
+	- lv **Hoja Aguda**
+	- lv Agilidad?
+	- mt Rayo solar 
+	- mt **Toxico**
+	- t **sustituto**?
+	- H Dragoaliento
+	- H **Drenadoras**
+- #257 Blaziken
+	- lv **Gancho alto**
+	- lv Corpulencia
+	- mt **danza espada**
+	- mt Tumba Rocas
+	- mt **llamarada**
+	- mt **sofoco**
+	- t **Avalancha**
+	- t Puno Trueno
+	- 
+- #260 Swampert
+	- lv **Terremoto**
+	- mt **Hidrocanon**
+	- mt **Rayo Hielo*** 
+	- mt **surf**
+	- mt Tumba Rocas
+	- mt Toxico?
+- #275 Shiftry
+	- mt Bola Sombra
+	- lv sorpresa
+	- mt demolicion
+	- t danza espada
+- #277 Swellow
+	- mt golpe aereo
+	- 
+- #279 Pelipper
+- #282 Gardevoir
+- #289 Slaking
+- #065 Alakazam
+- #297 Hariyama
+- #130 Gyarados
+- #169 Crobat
+- #303 Mawile
+- #306 Aggron
+- #310 Magnectric
+- #082 Magneton
+- #315 Roselia
+- #319 Sharpedo
+- #323 Camerupt
+- #324 Torkial
+- #227 Skarmory
+- #330 Flygon
+- #334 Altaria
+- #342 Crawdaunt
+- #348 Armaldo
+- #350 Milotic
+- #121 Starmie
+- #365 Walrein
+- #373 Salamence
+- #376 Metagross
