@@ -10,5 +10,5 @@ Ideas
 - herramienta para cachar las debilidades dependiendo del equipo
 - Buscar una o varias apis para consumir info como estadisticas ataques por gen etc [[pokemon Api Info]]
 - 
-
-
+como uptdate encontre que [*POKEBOT*](https://github.com/40Cakes/pokebot-gen3)
+ genera imagenes de cartas muy cool me gusta para armar algo similar para para armar tarjetas de el quipo competitivo
