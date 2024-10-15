@@ -34,11 +34,11 @@
 | **Pokémon Ultra Moon**        | Nintendo 3DS     | ❌      | ❌       | ❌           |     |
 | **Pokémon Ultra Sun**         | Nintendo 3DS     | ❌      | ❌       | ❌           |     |
 | **Pokémon Let's Go Pikachu**  | Nintendo Switch  | ❌      | ❌       | ❌           |     |
-| **Pokémon Let's Go Eevee**    | Nintendo Switch  | ❌      | ✅ (1)   | ❌           |     |
+| **Pokémon Let's Go Eevee**    | Nintendo Switch  | ✅ (1)      | ❌   | ❌           |     |
 | **Pokémon Sword**             | Nintendo Switch  | ❌      | ❌       | ❌           |     |
-| **Pokémon Shield**            | Nintendo Switch  | ❌      | ✅ (1)   | ❌           |     |
+| **Pokémon Shield**            | Nintendo Switch  | ✅ (1)      | ❌   | ❌           |     |
 | **Pokémon Brilliant Diamond** | Nintendo Switch  | ❌      | ❌       | ✅ (1)       |     |
 | **Pokémon Shining Pearl**     | Nintendo Switch  | ❌      | ❌       | ✅ (1)       |     |
 | **Pokémon Legends: Arceus**   | Nintendo Switch  | ❌      | ❌       | ✅ (1)       |     |
-| **Pokémon Scarlet**           | Nintendo Switch  | ❌      | ✅ (1)   | ❌           |     |
+| **Pokémon Scarlet**           | Nintendo Switch  | ✅ (1)      | ❌   | ❌           |     |
 | **Pokémon Violet**            | Nintendo Switch  | ❌      | ❌       | ❌           |     |

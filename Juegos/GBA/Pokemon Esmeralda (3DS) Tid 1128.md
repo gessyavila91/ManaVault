@@ -5,6 +5,12 @@ Recomendaciones de los pokemon utiles para esta generacion tenemos opciones tant
 # CompetitiveTeam
 
 # Unic Static Pokemon
+### Latias 
+#### Preparativos 
+- bici acrobatica
+- espacio en el equipo
+
+	
 
 # Event list
 

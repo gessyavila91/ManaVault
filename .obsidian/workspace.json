@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "311075a75db890be",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "24966fa9d6b5bc91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Juegos/DS/SoulSilver.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "16b444a8ff8c5d9e",
         "type": "tabs",
         "children": [
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Juegos/Colleccion de Pokemon.md",
+                "file": "Juegos/Pokemon General Challenge.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Juegos/DS/SoulSilver.md",
+                "file": "Juegos/Pokemon General Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Juegos/DS/SoulSilver.md",
+                "file": "Juegos/Pokemon General Challenge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Juegos/DS/SoulSilver.md"
+                "file": "Juegos/Pokemon General Challenge.md"
               }
             }
           },
@@ -193,10 +175,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "24966fa9d6b5bc91",
+  "active": "c4e59d1b24e56c1c",
   "lastOpenFiles": [
-    "Juegos/Pokemon.md",
+    "Music/MyLife Anime OST.md",
+    "Juegos/Pokemon General Challenge.md",
+    "Music",
     "Juegos/Colleccion de Pokemon.md",
+    "Juegos/GBA/Pokemon Esmeralda (3DS) Tid 1128.md",
+    "Juegos/GBA/Pokemon estaticos  y legendarios.md",
+    "Juegos/GBA/Team Competitivo.md",
+    "Juegos/GBA/ToolMons.md",
+    "Juegos/DS/SoulSilver.md",
+    "Juegos/Pokemon.md",
     "Juegos/Python Tool Pokemon Ideas.md",
     "Juegos/pokemon Api Info.md",
     "Heatmap.md",
@@ -204,16 +194,11 @@
     "Series a ver.md",
     "Juegos/GBA/img/2024-10-09_23-25-16.gif",
     "Juegos/GBA/img/129 ★ - MAGIKARP - Gentle [128] - 4AF4DD02.png",
-    "Juegos/GBA/ToolMons.md",
-    "Juegos/Pokemon Challenge General.md",
-    "Juegos/DS/SoulSilver.md",
     "Juegos/DS/SoulSilver 1128 jp cartucho.md",
     "Juegos/DS/HeartGold 1128 jp cartucho.md",
     "Juegos/DS",
     "daily notes/2024-10-09.md",
     "Juegos/GBA/img",
-    "Juegos/GBA/Pokemon estaticos  y legendarios.md",
-    "Juegos/GBA/Team Competitivo.md",
     "daily notes/2024-10-06.md",
     "DataTableViewer.md",
     "config/schemas/Daily Task.md",
@@ -225,11 +210,9 @@
     "templater/daily_note_autamator.md",
     "templater/dailyTask.md",
     "Templated/daily-note.md",
-    "daily notes/2024-09-17.md",
     "Scripts/my_script.js",
     "Scripts/my_script",
     "Scripts",
-    "Sin título.md",
     "Juegos/assets/ico-a_old_286.gif",
     "Juegos/assets/ico-a_old_235.gif",
     "juegos/assets/ico-a_old_282 1.gif",
@@ -240,7 +223,6 @@
     "Juegos/assets",
     "Juegos/GBA",
     "Juegos",
-    "Scripts/scDailyTask.js",
-    "Scripts/scDailyTask"
+    "Scripts/scDailyTask.js"
   ]
 }
