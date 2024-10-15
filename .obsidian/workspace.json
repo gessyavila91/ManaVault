@@ -13,31 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Juegos/PythonToolPokemonIdeas.md",
+                "file": "Juegos/DS/SoulSilver 1128 jp cartucho.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "28c378843f535b7a",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b5127cfc0883041e",
+            "id": "7845d9c869caaa18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2024-10-09.md",
+                "file": "Juegos/DS/HeartGold 1128 jp cartucho.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3c1feaa83800e54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Juegos/Colleccion de Pokemon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 324.5
   },
   "right": {
     "id": "9bbed511a6469db6",
@@ -103,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Juegos/PythonToolPokemonIdeas.md",
+                "file": "Juegos/Colleccion de Pokemon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Juegos/PythonToolPokemonIdeas.md",
+                "file": "Juegos/Colleccion de Pokemon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Juegos/PythonToolPokemonIdeas.md"
+                "file": "Juegos/Colleccion de Pokemon.md"
               }
             }
           },
@@ -193,10 +200,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fcb7e25cb143a83a",
+  "active": "c3c1feaa83800e54",
   "lastOpenFiles": [
+    "Juegos/Pokemon Challenge General.md",
+    "Juegos/Colleccion de Pokemon.md",
+    "Juegos/DS/SoulSilver.md",
+    "Juegos/DS/HeartGold 1128 jp cartucho.md",
+    "Juegos/Python Tool Pokemon Ideas.md",
+    "Juegos/pokemon Api Info.md",
+    "Juegos/pokemon gen3 icon.md",
+    "Juegos/DS/SoulSilver 1128 jp cartucho.md",
+    "Sin título.canvas",
+    "Juegos/DS",
     "daily notes/2024-10-09.md",
-    "Juegos/PythonToolPokemonIdeas.md",
     "Juegos/GBA/img/129 ★ - MAGIKARP - Gentle [128] - 4AF4DD02.png",
     "Juegos/GBA/Pokemon estaticos  y legendarios.md",
     "daily notes/2024-10-06.md",
@@ -208,7 +224,6 @@
     "DataTableViewer.md",
     "Mecanografia ⌨️.md",
     "config/schemas/Daily Task.md",
-    "Sin título.canvas",
     "Pasted image 20241003003006.png",
     "daily notes/2024-10-05.md",
     "daily notes/2024-09-14.md",
@@ -220,14 +235,8 @@
     "Scripts/my_script.js",
     "Scripts/my_script",
     "Scripts",
-    "Sin título.md",
     "Sin título 1.md",
     "config/schemas/WeekPlanerYAML.md",
-    "Blueprint/BP - Scheduler.md",
-    "Blueprint/BP - Task List.md",
-    "Blueprint/horarios.md",
-    "Devs/Ideas millonarias.md",
-    "Juegos/pokemon Api Info.md",
     "Juegos/assets/ico-a_old_286.gif",
     "Juegos/assets/ico-a_old_235.gif",
     "juegos/assets/ico-a_old_282 1.gif",
@@ -239,7 +248,6 @@
     "Juegos/GBA",
     "Juegos",
     "Scripts/scDailyTask.js",
-    "Scripts/scDailyTask",
-    "Scripts"
+    "Scripts/scDailyTask"
   ]
 }
