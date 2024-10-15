@@ -1,29 +1,44 @@
-
-✅ (completo en caja)
-🟡 (sueltos)
-💿 (pirata)
-❌ (no tienes)
-
-| Juego                                       | Consola          | Inglés | Español | Japonés |
-| ------------------------------------------- | ---------------- | ------ | ------- | ------- |
-| **Pokémon Red/Blue**                        | Game Boy         | ✅ (1)  | ❌       | ✅ (1)   |
-| **Pokémon Yellow**                          | Game Boy         | ✅ (1)  | ❌       | ✅ (1)   |
-| **Pokémon Gold/Silver**                     | Game Boy Color   | ✅ (2)  | ✅ (1)   | ✅ (2)   |
-| **Pokémon Crystal**                         | Game Boy Color   | ✅ (1)  | ✅ (1)   | ✅ (2)   |
-| **Pokémon Ruby/Sapphire**                   | Game Boy Advance | ✅ (1)  | 🟡 (1)  | ✅ (2)   |
-| **Pokémon Emerald**                         | Game Boy Advance | ✅ (1)  | ✅ (1)   | 💿 (1)  |
-| **Pokémon FireRed/LeafGreen**               | Game Boy Advance | ✅ (1)  | ✅ (1)   | 💿 (1)  |
-| **Pokémon Diamond/Pearl**                   | Nintendo DS      | ✅ (2)  | 🟡 (1)  | ✅ (2)   |
-| **Pokémon Platinum**                        | Nintendo DS      | ✅ (1)  | ✅ (1)   | ✅ (2)   |
-| **Pokémon HeartGold/SoulSilver**            | Nintendo DS      | ✅ (2)  | ✅ (1)   | ✅ (2)   |
-| **Pokémon Black/White**                     | Nintendo DS      | ✅ (2)  | ✅ (1)   | ✅ (2)   |
-| **Pokémon Black 2/White 2**                 | Nintendo DS      | ✅ (1)  | ✅ (1)   | ✅ (2)   |
-| **Pokémon X/Y**                             | Nintendo 3DS     | ✅ (2)  | ✅ (1)   | ✅ (1)   |
-| **Pokémon Omega Ruby/Alpha Sapphire**       | Nintendo 3DS     | ✅ (1)  | ✅ (1)   | ✅ (2)   |
-| **Pokémon Sun/Moon**                        | Nintendo 3DS     | ✅ (2)  | ✅ (1)   | ✅ (1)   |
-| **Pokémon Ultra Sun/Ultra Moon**            | Nintendo 3DS     | ✅ (1)  | ✅ (1)   | 💿 (1)  |
-| **Pokémon Let's Go Pikachu/Eevee**          | Nintendo Switch  | ✅ (2)  | ✅ (1)   | ✅ (1)   |
-| **Pokémon Sword/Shield**                    | Nintendo Switch  | ✅ (2)  | ✅ (1)   | ✅ (1)   |
-| **Pokémon Brilliant Diamond/Shining Pearl** | Nintendo Switch  | ✅ (2)  | ✅ (1)   | ✅ (1)   |
-| **Pokémon Legends: Arceus**                 | Nintendo Switch  | ✅ (1)  | ✅ (1)   | ✅ (1)   |
-| **Pokémon Scarlet/Violet**                  | Nintendo Switch  | ✅ (2)  | ✅ (1)   | ✅ (1)   |
+✅ (completo en caja)  
+🟡 (sueltos)  
+💿 (pirata)  
+❌ (no tienes)  
+  
+| Juego                         | Consola          | Inglés | Español | Japonés     |     |
+| ----------------------------- | ---------------- | ------ | ------- | ----------- | --- |
+| **Pokémon Red**               | Game Boy         | ❌      | ❌       | ❌           |     |
+| **Pokémon Blue**              | Game Boy         | ❌      | ❌       | ❌           |     |
+| **Pokémon Yellow**            | Game Boy         | ❌      | ❌       | ❌           |     |
+| **Pokémon Silver**            | Game Boy Color   | ❌      | ❌       | ❌           |     |
+| **Pokémon Gold**              | Game Boy Color   | ❌      | ❌       | ❌           |     |
+| **Pokémon Crystal**           | Game Boy Color   | ❌      | ❌       | ❌           |     |
+| **Pokémon Ruby**              | Game Boy Advance | ❌      | ❌       | ✅ (1)🟡 (1) |     |
+| **Pokémon Sapphire**          | Game Boy Advance | ❌      | ❌       | ✅ (1)🟡 (1) |     |
+| **Pokémon Emerald**           | Game Boy Advance | ❌      | ❌       | ✅ (1)       |     |
+| **Pokémon LeafGreen**         | Game Boy Advance | ❌      | ❌       | ✅ (1)       |     |
+| **Pokémon FireRed**           | Game Boy Advance | ❌      | ❌       | ✅ (1)       |     |
+| **Pokémon Pearl**             | Nintendo DS      | ❌      | ❌       | ❌           |     |
+| **Pokémon Diamond**           | Nintendo DS      | ❌      | ❌       | ❌           |     |
+| **Pokémon Platinum**          | Nintendo DS      | ❌      | ❌       | ❌           |     |
+| **Pokémon SoulSilver**        | Nintendo DS      | ❌      | ❌       | ✅ (1)       |     |
+| **Pokémon HeartGold**         | Nintendo DS      | ❌      | ❌       | ✅ (1)       |     |
+| **Pokémon Black**             | Nintendo DS      | ❌      | ❌       | ❌           |     |
+| **Pokémon White**             | Nintendo DS      | ❌      | ❌       | ❌           |     |
+| **Pokémon White 2**           | Nintendo DS      | ❌      | ❌       | ❌           |     |
+| **Pokémon Black 2**           | Nintendo DS      | ❌      | ❌       | ❌           |     |
+| **Pokémon Y**                 | Nintendo 3DS     | ❌      | ❌       | ❌           |     |
+| **Pokémon X**                 | Nintendo 3DS     | ✅ (1)  | ❌       | ❌           |     |
+| **Pokémon Omega Ruby**        | Nintendo 3DS     | ✅ (1)  | ❌       | ❌           |     |
+| **Pokémon Alpha Sapphire**    | Nintendo 3DS     | ❌      | ❌       | ❌           |     |
+| **Pokémon Moon**              | Nintendo 3DS     | ❌      | ❌       | ❌           |     |
+| **Pokémon Sun**               | Nintendo 3DS     | ✅ (1)  | ❌       | ❌           |     |
+| **Pokémon Ultra Moon**        | Nintendo 3DS     | ❌      | ❌       | ❌           |     |
+| **Pokémon Ultra Sun**         | Nintendo 3DS     | ❌      | ❌       | ❌           |     |
+| **Pokémon Let's Go Pikachu**  | Nintendo Switch  | ❌      | ❌       | ❌           |     |
+| **Pokémon Let's Go Eevee**    | Nintendo Switch  | ❌      | ✅ (1)   | ❌           |     |
+| **Pokémon Sword**             | Nintendo Switch  | ❌      | ❌       | ❌           |     |
+| **Pokémon Shield**            | Nintendo Switch  | ❌      | ✅ (1)   | ❌           |     |
+| **Pokémon Brilliant Diamond** | Nintendo Switch  | ❌      | ❌       | ✅ (1)       |     |
+| **Pokémon Shining Pearl**     | Nintendo Switch  | ❌      | ❌       | ✅ (1)       |     |
+| **Pokémon Legends: Arceus**   | Nintendo Switch  | ❌      | ❌       | ✅ (1)       |     |
+| **Pokémon Scarlet**           | Nintendo Switch  | ❌      | ✅ (1)   | ❌           |     |
+| **Pokémon Violet**            | Nintendo Switch  | ❌      | ❌       | ❌           |     |

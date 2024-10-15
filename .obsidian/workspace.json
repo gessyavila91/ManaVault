@@ -4,35 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "99ff1a631fd6db7d",
+        "id": "311075a75db890be",
         "type": "tabs",
         "children": [
           {
-            "id": "fcb7e25cb143a83a",
+            "id": "24966fa9d6b5bc91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Juegos/DS/SoulSilver 1128 jp cartucho.md",
+                "file": "Juegos/DS/SoulSilver.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "16b444a8ff8c5d9e",
+        "type": "tabs",
+        "children": [
           {
-            "id": "7845d9c869caaa18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Juegos/DS/HeartGold 1128 jp cartucho.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3c1feaa83800e54",
+            "id": "c4e59d1b24e56c1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 207.5
   },
   "right": {
     "id": "9bbed511a6469db6",
@@ -110,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Juegos/Colleccion de Pokemon.md",
+                "file": "Juegos/DS/SoulSilver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Juegos/Colleccion de Pokemon.md",
+                "file": "Juegos/DS/SoulSilver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Juegos/Colleccion de Pokemon.md"
+                "file": "Juegos/DS/SoulSilver.md"
               }
             }
           },
@@ -200,30 +193,31 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c3c1feaa83800e54",
+  "active": "24966fa9d6b5bc91",
   "lastOpenFiles": [
-    "Juegos/Pokemon Challenge General.md",
+    "Juegos/Pokemon.md",
     "Juegos/Colleccion de Pokemon.md",
-    "Juegos/DS/SoulSilver.md",
-    "Juegos/DS/HeartGold 1128 jp cartucho.md",
     "Juegos/Python Tool Pokemon Ideas.md",
     "Juegos/pokemon Api Info.md",
-    "Juegos/pokemon gen3 icon.md",
+    "Heatmap.md",
+    "Mecanografia ⌨️.md",
+    "Series a ver.md",
+    "Juegos/GBA/img/2024-10-09_23-25-16.gif",
+    "Juegos/GBA/img/129 ★ - MAGIKARP - Gentle [128] - 4AF4DD02.png",
+    "Juegos/GBA/ToolMons.md",
+    "Juegos/Pokemon Challenge General.md",
+    "Juegos/DS/SoulSilver.md",
     "Juegos/DS/SoulSilver 1128 jp cartucho.md",
-    "Sin título.canvas",
+    "Juegos/DS/HeartGold 1128 jp cartucho.md",
     "Juegos/DS",
     "daily notes/2024-10-09.md",
-    "Juegos/GBA/img/129 ★ - MAGIKARP - Gentle [128] - 4AF4DD02.png",
-    "Juegos/GBA/Pokemon estaticos  y legendarios.md",
-    "daily notes/2024-10-06.md",
     "Juegos/GBA/img",
-    "Juegos/GBA/Sin título.md",
-    "Juegos/GBA/ToolMons.md",
-    "Juegos/GBA/img/2024-10-09_23-25-16.gif",
+    "Juegos/GBA/Pokemon estaticos  y legendarios.md",
     "Juegos/GBA/Team Competitivo.md",
+    "daily notes/2024-10-06.md",
     "DataTableViewer.md",
-    "Mecanografia ⌨️.md",
     "config/schemas/Daily Task.md",
+    "Sin título.canvas",
     "Pasted image 20241003003006.png",
     "daily notes/2024-10-05.md",
     "daily notes/2024-09-14.md",
@@ -235,8 +229,7 @@
     "Scripts/my_script.js",
     "Scripts/my_script",
     "Scripts",
-    "Sin título 1.md",
-    "config/schemas/WeekPlanerYAML.md",
+    "Sin título.md",
     "Juegos/assets/ico-a_old_286.gif",
     "Juegos/assets/ico-a_old_235.gif",
     "juegos/assets/ico-a_old_282 1.gif",
