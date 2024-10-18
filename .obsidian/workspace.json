@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devs/IOS/SwiftUI Tutorial.md",
+                "file": "Devs/IOS/Swift103 - Develop apps for Apple platforms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SwiftUI Tutorial"
-            }
-          },
-          {
-            "id": "a88f9545e39e672c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Swift103 - Develop apps for Apple platforms"
             }
           }
         ]
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devs/IOS/SwiftUI Tutorial.md",
+                "file": "Devs/IOS/Swift103 - Develop apps for Apple platforms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de SwiftUI Tutorial"
+              "title": "Enlaces entrantes de Swift103 - Develop apps for Apple platforms"
             }
           },
           {
@@ -124,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Devs/IOS/SwiftUI Tutorial.md",
+                "file": "Devs/IOS/Swift103 - Develop apps for Apple platforms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de SwiftUI Tutorial"
+              "title": "Enlaces salientes de Swift103 - Develop apps for Apple platforms"
             }
           },
           {
@@ -151,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Devs/IOS/SwiftUI Tutorial.md"
+                "file": "Devs/IOS/Swift103 - Develop apps for Apple platforms.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de SwiftUI Tutorial"
+              "title": "Esquema de Swift103 - Develop apps for Apple platforms"
             }
           },
           {
@@ -197,9 +185,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
@@ -211,10 +199,14 @@
   },
   "active": "c4e59d1b24e56c1c",
   "lastOpenFiles": [
+    "Devs/IOS/Swift102 - SwiftUI Tutorial.md",
+    "Devs/IOS/Swift103 - Develop apps for Apple platforms.md",
+    "Devs/IOS/000 - APPLE IOS DEVELOPER ROADMAP.md",
+    "Devs/IOS/Swift101 - Develop in Swift.md",
+    "Devs/Programacion 🖥️.md",
     "Series a ver.md",
     "Obsidian Wishes",
     "Sin título.md",
-    "Devs/IOS/SwiftUI Tutorial.md",
     "Juegos/GBA/ToolMons.md",
     "Devs/IOS",
     "Juegos/Colleccion de Pokemon.md",
@@ -242,9 +234,6 @@
     "config/schemas/Daily Task.md",
     "Sin título.canvas",
     "Pasted image 20241003003006.png",
-    "daily notes/2024-10-05.md",
-    "daily notes/2024-09-14.md",
-    "dailyTaskModule.md",
     "Scripts/my_script.js",
     "Scripts/my_script",
     "Scripts",

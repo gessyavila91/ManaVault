@@ -1,6 +1,7 @@
 # [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui/)  `fas:Swift` 
 
-`Tutorial para aprender SwiftUI desde ZERO!!!`
+`Tutorial para aprender SwiftUI desde ZERO!!!
+[:luc_github:project](https://github.com/gessyavila91/Landmarks)`
 ## Chapter 1: SwiftUI essentials
 - [x] [Creating and combining views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views) ✅ 2024-10-17
 - [x] [Building lists and navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation) ✅ 2024-10-17
