@@ -13,10 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Juegos/Pokemon General Challenge.md",
+                "file": "Devs/IOS/SwiftUI Tutorial.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "SwiftUI Tutorial"
+            }
+          },
+          {
+            "id": "a88f9545e39e672c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ]
@@ -39,7 +53,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -54,7 +70,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -62,7 +80,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Juegos/Pokemon General Challenge.md",
+                "file": "Devs/IOS/SwiftUI Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +113,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de SwiftUI Tutorial"
             }
           },
           {
@@ -102,10 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Juegos/Pokemon General Challenge.md",
+                "file": "Devs/IOS/SwiftUI Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de SwiftUI Tutorial"
             }
           },
           {
@@ -116,7 +140,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -125,8 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Juegos/Pokemon General Challenge.md"
-              }
+                "file": "Devs/IOS/SwiftUI Tutorial.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de SwiftUI Tutorial"
             }
           },
           {
@@ -134,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -142,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -150,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "timeline",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
         ],
@@ -177,28 +211,32 @@
   },
   "active": "c4e59d1b24e56c1c",
   "lastOpenFiles": [
-    "Music/MyLife Anime OST.md",
-    "Juegos/Pokemon General Challenge.md",
-    "Music",
-    "Juegos/Colleccion de Pokemon.md",
-    "Juegos/GBA/Pokemon Esmeralda (3DS) Tid 1128.md",
-    "Juegos/GBA/Pokemon estaticos  y legendarios.md",
-    "Juegos/GBA/Team Competitivo.md",
+    "Series a ver.md",
+    "Obsidian Wishes",
+    "Sin título.md",
+    "Devs/IOS/SwiftUI Tutorial.md",
     "Juegos/GBA/ToolMons.md",
+    "Devs/IOS",
+    "Juegos/Colleccion de Pokemon.md",
     "Juegos/DS/SoulSilver.md",
+    "Music/MyLife Anime OST.md",
+    "Music",
+    "Juegos/Pokemon General Challenge.md",
     "Juegos/Pokemon.md",
     "Juegos/Python Tool Pokemon Ideas.md",
     "Juegos/pokemon Api Info.md",
     "Heatmap.md",
     "Mecanografia ⌨️.md",
-    "Series a ver.md",
     "Juegos/GBA/img/2024-10-09_23-25-16.gif",
     "Juegos/GBA/img/129 ★ - MAGIKARP - Gentle [128] - 4AF4DD02.png",
+    "Juegos/Pokemon Challenge General.md",
     "Juegos/DS/SoulSilver 1128 jp cartucho.md",
     "Juegos/DS/HeartGold 1128 jp cartucho.md",
     "Juegos/DS",
     "daily notes/2024-10-09.md",
     "Juegos/GBA/img",
+    "Juegos/GBA/Pokemon estaticos  y legendarios.md",
+    "Juegos/GBA/Team Competitivo.md",
     "daily notes/2024-10-06.md",
     "DataTableViewer.md",
     "config/schemas/Daily Task.md",
@@ -207,9 +245,6 @@
     "daily notes/2024-10-05.md",
     "daily notes/2024-09-14.md",
     "dailyTaskModule.md",
-    "templater/daily_note_autamator.md",
-    "templater/dailyTask.md",
-    "Templated/daily-note.md",
     "Scripts/my_script.js",
     "Scripts/my_script",
     "Scripts",
@@ -221,8 +256,6 @@
     "juegos/assets/ico-a_old_264 1.gif",
     "Juegos/assets/ico-a_old_264.gif",
     "Juegos/assets",
-    "Juegos/GBA",
-    "Juegos",
-    "Scripts/scDailyTask.js"
+    "Juegos/GBA"
   ]
 }

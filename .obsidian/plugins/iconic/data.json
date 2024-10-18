@@ -1,0 +1,69 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": false,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Blueprint": {
+      "icon": "lucide-newspaper",
+      "unsynced": [
+        "6c86e9d03587aadb"
+      ],
+      "color": "blue"
+    },
+    "Devs": {
+      "icon": "lucide-code-square",
+      "unsynced": [
+        "6c86e9d03587aadb"
+      ]
+    },
+    "Devs/IOS": {
+      "icon": "lucide-apple",
+      "unsynced": [
+        "6c86e9d03587aadb"
+      ],
+      "color": "orange"
+    },
+    "Juegos": {
+      "icon": "lucide-gamepad",
+      "unsynced": [
+        "6c86e9d03587aadb"
+      ]
+    },
+    "Music": {
+      "icon": "lucide-music",
+      "unsynced": [
+        "6c86e9d03587aadb"
+      ],
+      "color": "green"
+    },
+    "config": {
+      "icon": "lucide-folder-cog-2",
+      "unsynced": [
+        "6c86e9d03587aadb"
+      ]
+    },
+    "daily notes": {
+      "icon": "lucide-calendar-check",
+      "unsynced": [
+        "6c86e9d03587aadb"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {}
+}
