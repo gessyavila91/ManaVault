@@ -1,14 +1,14 @@
 
 <%*
 // Cargar y mostrar las tareas sin horario desde el archivo de tareas
-const taskFilePath = "config/schemas/Daily Task.md";
+const taskFilePath = "config/schemas/SHM - Daily Task.md";
 let taskContent = await app.vault.adapter.read(taskFilePath);
 tR += taskContent;
 %>
 
 <%*
 // Definir la ruta del archivo .md
-const filePath = "config/schemas/WeekPlanerYAML.md";
+const filePath = "config/schemas/SHM - WeekPlanerYAML.md";
 
 // Leer el archivo .md como texto plano
 let fileContent = await app.vault.adapter.read(filePath);
