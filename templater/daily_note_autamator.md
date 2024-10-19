@@ -1,4 +1,3 @@
-
 <%*
 // Cargar y mostrar las tareas sin horario desde el archivo de tareas
 const taskFilePath = "config/schemas/SHM - Daily Task.md";
@@ -86,6 +85,5 @@ lines.forEach(line => {
 // console.log(output);
 tR += output;
 %>
-
 
 # Notas

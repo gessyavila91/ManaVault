@@ -11,30 +11,14 @@
             "id": "c4e59d1b24e56c1c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          }
-        ]
-      },
-      {
-        "id": "804393561ec2a267",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "89d9a11c0649e84c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2024-10-09.md",
+                "file": "templater/daily_note_autamator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-09"
+              "title": "daily_note_autamator"
             }
           }
         ]
@@ -109,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templater/daily_note_autamator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de daily_note_autamator"
             }
           },
           {
@@ -127,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templater/daily_note_autamator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de daily_note_autamator"
             }
           },
           {
@@ -152,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "templater/daily_note_autamator.md"
+              },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de daily_note_autamator"
             }
           },
           {
@@ -163,8 +151,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
             }
           },
           {
@@ -173,12 +161,22 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
             }
           },
           {
             "id": "0376b925b345b3a0",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
+            }
+          },
+          {
+            "id": "6b44b728d9c47367",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -211,23 +209,24 @@
   },
   "active": "c4e59d1b24e56c1c",
   "lastOpenFiles": [
+    "Devs/DEV - Ideas millonarias.md",
+    "Devs/IOS/DEV - Swift000 - APPLE IOS DEVELOPER ROADMAP.md",
+    "Devs/IOS/DEV - Swift110 - Develop in Swift.md",
+    "Devs/DEV - Programacion 🖥️.md",
+    "daily notes/2024-10-09.md",
+    "daily notes/2024-10-06.md",
     "config/Blueprint/Blueprint.md",
     "config/Blueprint/BP - Scheduler.md",
     "config/Blueprint/BP - Task List.md",
     "config/Blueprint/horarios.md",
     "config/schemas/SHM - WeekPlanerYAML.md",
-    "daily notes/2024-10-09.md",
     "templater/daily_note_autamator.md",
     "config/schemas/SHM - Daily Task.md",
     "Blueprint/Task List.md",
     "Blueprint/BLP - Scheduler.md",
-    "Devs/DEV - Programacion 🖥️.md",
     "Juegos/03GBA/PKM Gen3 - Team Competitivo.md",
     "Devs/IOS/DEV - Swift130 - Develop apps for Apple platforms.md",
     "Devs/IOS/DEV - Swift120 - SwiftUI Tutorial.md",
-    "Devs/IOS/DEV - Swift110 - Develop in Swift.md",
-    "Devs/IOS/DEV - Swift000 - APPLE IOS DEVELOPER ROADMAP.md",
-    "Devs/DEV - Ideas millonarias.md",
     "Juegos/03GBA/PKM Gen3 - ToolMons.md",
     "Juegos/PKM/PKM - Index.md",
     "Juegos/04DS/Games/PKM Gen4 - SoulSilver retroachievements.md",
@@ -239,7 +238,6 @@
     "Juegos/02GBC/Games/PKM Gen2 - Cristal 3DS TID SID.md",
     "Juegos/02GBC/Games",
     "Juegos/02GBC",
-    "Juegos/04DS/Games/PKM Gen4 - HeartGold 1128 jp cartucho.md",
     "Juegos/03GBA/Games",
     "Juegos/04DS/Games",
     "Juegos/Resources/img/Pasted image 20241018182308.png",
