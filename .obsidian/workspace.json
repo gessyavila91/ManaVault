@@ -11,14 +11,10 @@
             "id": "c4e59d1b24e56c1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Devs/IOS/Swift103 - Develop apps for Apple platforms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Swift103 - Develop apps for Apple platforms"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 371.5
   },
   "right": {
     "id": "9bbed511a6469db6",
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devs/IOS/Swift103 - Develop apps for Apple platforms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Swift103 - Develop apps for Apple platforms"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -112,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Devs/IOS/Swift103 - Develop apps for Apple platforms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Swift103 - Develop apps for Apple platforms"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -138,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Devs/IOS/Swift103 - Develop apps for Apple platforms.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Esquema de Swift103 - Develop apps for Apple platforms"
+              "title": "Esquema"
             }
           },
           {
@@ -199,52 +191,52 @@
   },
   "active": "c4e59d1b24e56c1c",
   "lastOpenFiles": [
-    "Devs/IOS/Swift102 - SwiftUI Tutorial.md",
-    "Devs/IOS/Swift103 - Develop apps for Apple platforms.md",
-    "Devs/IOS/000 - APPLE IOS DEVELOPER ROADMAP.md",
-    "Devs/IOS/Swift101 - Develop in Swift.md",
-    "Devs/Programacion 🖥️.md",
+    "Devs/DEV - Programacion 🖥️.md",
+    "Juegos/03GBA/PKM Gen3 - Team Competitivo.md",
+    "Devs/IOS/DEV - Swift130 - Develop apps for Apple platforms.md",
+    "Devs/IOS/DEV - Swift120 - SwiftUI Tutorial.md",
+    "Devs/IOS/DEV - Swift110 - Develop in Swift.md",
+    "Devs/IOS/DEV - Swift000 - APPLE IOS DEVELOPER ROADMAP.md",
+    "Devs/DEV - Ideas millonarias.md",
+    "Juegos/03GBA/PKM Gen3 - ToolMons.md",
+    "Juegos/PKM/PKM - Index.md",
+    "Juegos/04DS/Games/PKM Gen4 - SoulSilver retroachievements.md",
+    "Juegos/PKM/PKM - General Challenge.md",
+    "Juegos/PKM/PKM - Pokemon.md",
+    "Juegos/Resources/img/ico-a_old_043.gif",
+    "Juegos/03GBA/PKM Gen3 - estaticos  y legendarios.md",
+    "Juegos/PKM/PKM - Python Tool Brainstorm.md",
+    "Juegos/02GBC/Games/PKM Gen2 - Cristal 3DS TID SID.md",
+    "Juegos/02GBC/Games",
+    "Juegos/02GBC",
+    "Juegos/04DS/Games/PKM Gen4 - HeartGold 1128 jp cartucho.md",
+    "Juegos/03GBA/Games",
+    "Juegos/04DS/Games/PKM Gen4 - SoulSilver 1128 jp cartucho.md",
+    "Juegos/04DS/Games",
+    "Juegos/Resources/PKM - Api Info.md",
+    "Juegos/Resources/PKM - gen3 icon.md",
+    "Juegos/PKM/PKM - Colleccion de juegos.md",
+    "Juegos/Resources/img/Pasted image 20241018182308.png",
+    "Juegos/03GBA/Games/PKM Gen3 -  Esmeralda (3DS) Tid 1128.md",
+    "Juegos/PKM",
     "Series a ver.md",
     "Obsidian Wishes",
     "Sin título.md",
-    "Juegos/GBA/ToolMons.md",
     "Devs/IOS",
-    "Juegos/Colleccion de Pokemon.md",
-    "Juegos/DS/SoulSilver.md",
     "Music/MyLife Anime OST.md",
     "Music",
-    "Juegos/Pokemon General Challenge.md",
-    "Juegos/Pokemon.md",
-    "Juegos/Python Tool Pokemon Ideas.md",
-    "Juegos/pokemon Api Info.md",
     "Heatmap.md",
     "Mecanografia ⌨️.md",
-    "Juegos/GBA/img/2024-10-09_23-25-16.gif",
-    "Juegos/GBA/img/129 ★ - MAGIKARP - Gentle [128] - 4AF4DD02.png",
-    "Juegos/Pokemon Challenge General.md",
-    "Juegos/DS/SoulSilver 1128 jp cartucho.md",
-    "Juegos/DS/HeartGold 1128 jp cartucho.md",
-    "Juegos/DS",
-    "daily notes/2024-10-09.md",
-    "Juegos/GBA/img",
-    "Juegos/GBA/Pokemon estaticos  y legendarios.md",
-    "Juegos/GBA/Team Competitivo.md",
-    "daily notes/2024-10-06.md",
-    "DataTableViewer.md",
-    "config/schemas/Daily Task.md",
+    "Juegos/Resources/img/2024-10-09_23-25-16.gif",
+    "Juegos/Resources/img/129 ★ - MAGIKARP - Gentle [128] - 4AF4DD02.png",
+    "Juegos/04DS",
+    "Juegos/Resources/img",
     "Sin título.canvas",
     "Pasted image 20241003003006.png",
-    "Scripts/my_script.js",
-    "Scripts/my_script",
-    "Scripts",
-    "Juegos/assets/ico-a_old_286.gif",
-    "Juegos/assets/ico-a_old_235.gif",
+    "Juegos/Resources/img/ico-a_old_286.gif",
+    "Juegos/Resources/img/ico-a_old_235.gif",
     "juegos/assets/ico-a_old_282 1.gif",
-    "Juegos/assets/ico-a_old_043.gif",
-    "Juegos/assets/ico-a_old_282.gif",
-    "juegos/assets/ico-a_old_264 1.gif",
-    "Juegos/assets/ico-a_old_264.gif",
-    "Juegos/assets",
-    "Juegos/GBA"
+    "Juegos/Resources/img/ico-a_old_282.gif",
+    "juegos/assets/ico-a_old_264 1.gif"
   ]
 }

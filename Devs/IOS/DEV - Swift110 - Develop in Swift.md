@@ -2,10 +2,9 @@
 
 `Tutorial para aprender Swift, Xcode y VisionOS desde ZERO!!!`
 
-# SwiftUI foundations
+# Swift111 - SwiftUI foundations
 
 `Get familiar with the tools and technologies you’ll use to create apps.`
-
 ## Chapter 1: Explore Xcode
 - [ ] [Welcome to Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-develop-in-swift-tutorials)
 - [ ] [Hello, SwiftUI](https://developer.apple.com/tutorials/develop-in-swift/hello-swiftui)
@@ -23,7 +22,7 @@
 - [ ] [Create dynamic content](https://developer.apple.com/tutorials/develop-in-swift/create-dynamic-content)
 - [ ] [Wrap-up: Lists and text fields](https://developer.apple.com/tutorials/develop-in-swift/lists-and-text-fields-conclusion)
 
-# Data modeling
+# Swift112 - Data modeling
 
 `Model real-world concepts and relationships by creating your own custom types. Learn how to store data with SwiftData and how to test that your apps work properly with Swift Testing.`
 
@@ -47,7 +46,7 @@
 - [ ] [Complete a game with logic](https://developer.apple.com/tutorials/develop-in-swift/complete-a-game-with-logic)
 - [ ] [Wrap-up: Observation and shareable data models](https://developer.apple.com/tutorials/develop-in-swift/observation-and-shareable-data-models-conclusion)
 
-# Spatial computing
+# Swift113 - Spatial computing
 `Design app experienxe for spatial computing`
 
 ## Chapter 1: Windows in visionOS

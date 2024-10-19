@@ -2,7 +2,7 @@
 *ETD 17hr 5min
 
 `Learn the basics of Xcode, SwiftUI, and UIKit to create compelling apps.`
-# SwiftUI
+# Swift131 - SwiftUI
 
 `Start building apps with SwiftUI, a declarative framework that developers use to compose the layout and behavior of multiplatform apps. You’ll build Scrumdinger, an app that manages daily meetings.`
 ## Chapter 1: SwiftUI essentials
@@ -22,7 +22,6 @@
 ## Chapter 4: Passing data
 `Create a source of truth for your app’s data. And use bindings to keep data in sync between views.`
 - [ ] [Passing data with bindings](https://developer.apple.com/tutorials/app-dev-training/passing-data-with-bindings)
-
 ## Chapter 5: State management
 `Learn how SwiftUI manages state for reference types. Make your app respond to changes dynamically.`
 - [ ] [Making classes observable](https://developer.apple.com/tutorials/app-dev-training/making-classes-observable)
@@ -45,10 +44,7 @@
 - [ ] [Examining data flow in Scrumdinger](https://developer.apple.com/tutorials/app-dev-training/examining-data-flow-in-scrumdinger)
 - [ ] [Transcribing speech to text](https://developer.apple.com/tutorials/app-dev-training/transcribing-speech-to-text)
 - [ ] [Finding more resources](https://developer.apple.com/tutorials/app-dev-training/finding-more-resources)
-
-
-
-# UIKit
+# Swift132 - UIKit
 
 `Explore UIKit, an imperative framework for constructing apps for iOS. Create Today, an app that helps users track their important tasks for the day.`
 ## Chapter 1: UIKit essentials
@@ -85,7 +81,7 @@
 - [ ] [Saving reminders](https://developer.apple.com/tutorials/app-dev-training/saving-reminders)
 - [ ] [Continuing your learning](https://developer.apple.com/tutorials/app-dev-training/continuing-your-learning)
 
-# Next steps
+# Swift134 - Next steps
 
 `Take the next step in making apps using tests, generics, and concurrency. Create and test Earthquakes, an app that loads data fetched from a remote server.`
 ## Chapter 1: Test
@@ -100,7 +96,7 @@
 - [ ] [Caching network data](https://developer.apple.com/tutorials/app-dev-training/caching-network-data)
 - [ ] [Adding the detail view](https://developer.apple.com/tutorials/app-dev-training/adding-the-detail-view)
 - [ ] [Refining your craft](https://developer.apple.com/tutorials/app-dev-training/refining-your-craft)
-# macOS
+# Swift135 - macOS
 
 `Explore Article Accelerator, a sample app athat displays traning conten, and learn how the app showcases fundamental traits of the macOS experience`
 ## Chapter 1: macOS essentials
