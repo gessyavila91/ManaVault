@@ -17,13 +17,6 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
-    "Blueprint": {
-      "icon": "lucide-newspaper",
-      "unsynced": [
-        "6c86e9d03587aadb"
-      ],
-      "color": "blue"
-    },
     "Devs": {
       "icon": "lucide-code-square",
       "unsynced": [
