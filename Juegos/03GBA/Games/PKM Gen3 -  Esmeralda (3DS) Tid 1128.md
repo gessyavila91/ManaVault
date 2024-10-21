@@ -5,13 +5,16 @@ Recomendaciones de los pokemon utiles para esta generacion tenemos opciones tant
 # CompetitiveTeam
 
 # Unic Static Pokemon
+
+
 ### Latias 
-#### Preparativos 
-- bici acrobatica
-- espacio en el equipo
+# RNG 
+## Crianza 
 
-	
-
+	Calibracion: 
+		- 19 antes de terminal la ElitFour
+		- ? despues de la liga Despues de liberar al roomer
+		- ? desoues de capturar al roomer
 # Event list
 
 
@@ -19,3 +22,6 @@ Recomendaciones de los pokemon utiles para esta generacion tenemos opciones tant
 
   
   
+# LOG
+## **10/16/2024**
+`el dia de hoy usando el metodo de rng se consigio sacar a latias shiny. adjunto evidencia` 

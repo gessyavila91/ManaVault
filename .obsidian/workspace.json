@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "daily_note_autamator"
             }
+          },
+          {
+            "id": "0674ef97903b7238",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 525.5,
-    "collapsed": true
+    "width": 525.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,7 +219,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c4e59d1b24e56c1c",
+  "active": "0674ef97903b7238",
   "lastOpenFiles": [
     "Devs/DEV - Ideas millonarias.md",
     "Devs/IOS/DEV - Swift000 - APPLE IOS DEVELOPER ROADMAP.md",
