@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "16b444a8ff8c5d9e",
+        "id": "939bcea36d17344e",
         "type": "tabs",
         "children": [
           {
-            "id": "c4e59d1b24e56c1c",
+            "id": "88d360cc490ca46a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templater/daily_note_autamator.md",
+                "file": "Juegos/04DS/PKM Gen4 - ToolMons.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "daily_note_autamator"
-            }
-          },
-          {
-            "id": "0674ef97903b7238",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "PKM Gen4 - ToolMons"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 296.5
   },
   "right": {
     "id": "9bbed511a6469db6",
@@ -184,8 +171,8 @@
             "state": {
               "type": "timeline",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           },
           {
@@ -203,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 525.5
+    "width": 525.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,8 +207,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0674ef97903b7238",
+  "active": "88d360cc490ca46a",
   "lastOpenFiles": [
+    "Juegos/Resources/PKM - gen3 icon.md",
+    "Juegos/04DS/PKM Gen4 - ToolMons.md",
+    "Juegos/PKM/PKM - Python Tool Brainstorm.md",
+    "Juegos/03GBA/PKM Gen3 - ToolMons.md",
+    "Juegos/04DS/Games/PKM Gen4 - HeartGold 1128 jp cartucho.md",
+    "Juegos/04DS/Games/PKM Gen 4 - Encounters.md",
+    "templater/daily_note_autamator.md",
     "Devs/DEV - Ideas millonarias.md",
     "Devs/IOS/DEV - Swift000 - APPLE IOS DEVELOPER ROADMAP.md",
     "Devs/IOS/DEV - Swift110 - Develop in Swift.md",
@@ -232,22 +227,15 @@
     "config/Blueprint/BP - Task List.md",
     "config/Blueprint/horarios.md",
     "config/schemas/SHM - WeekPlanerYAML.md",
-    "templater/daily_note_autamator.md",
     "config/schemas/SHM - Daily Task.md",
     "Blueprint/Task List.md",
     "Blueprint/BLP - Scheduler.md",
     "Juegos/03GBA/PKM Gen3 - Team Competitivo.md",
     "Devs/IOS/DEV - Swift130 - Develop apps for Apple platforms.md",
     "Devs/IOS/DEV - Swift120 - SwiftUI Tutorial.md",
-    "Juegos/03GBA/PKM Gen3 - ToolMons.md",
     "Juegos/PKM/PKM - Index.md",
     "Juegos/04DS/Games/PKM Gen4 - SoulSilver retroachievements.md",
-    "Juegos/PKM/PKM - General Challenge.md",
-    "Juegos/PKM/PKM - Pokemon.md",
     "Juegos/Resources/img/ico-a_old_043.gif",
-    "Juegos/03GBA/PKM Gen3 - estaticos  y legendarios.md",
-    "Juegos/PKM/PKM - Python Tool Brainstorm.md",
-    "Juegos/02GBC/Games/PKM Gen2 - Cristal 3DS TID SID.md",
     "Juegos/02GBC/Games",
     "Juegos/02GBC",
     "Juegos/03GBA/Games",
