@@ -9,14 +9,14 @@
 - [x] 🏁 [Handling user input](https://developer.apple.com/tutorials/swiftui/handling-user-input) ✅ 2024-10-18
 ## Chapter 2: Drawing and animation
 `Discover how to draw shapes and paths to create a badge that you’ll animate, while also creating seamless transitions between views.`
-- [ ] [Drawing paths and shapes](https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes)
-- [ ] [Animating views and transitions](https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions)
+- [x] [Drawing paths and shapes](https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes) ✅ 2024-10-18
+- [x] [Animating views and transitions](https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions) ✅ 2024-10-18
 ## Chapter 3: App design and layout
 `Explore the structure and layout of more complex interfaces built with SwiftUI.`
-- [ ] [Composing complex interfaces](https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces)
-- [ ] [Working with UI controls](https://developer.apple.com/tutorials/swiftui/working-with-ui-controls)
+- [x] [Composing complex interfaces](https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces) ✅ 2024-10-19
+- [x] [Working with UI controls](https://developer.apple.com/tutorials/swiftui/working-with-ui-controls) ✅ 2024-10-19
 ## Chapter 4: Framework integration
 `Use SwiftUI views together with the views and view controllers from platform-specific UI frameworks.`
-- [ ] [Interfacing with UIKit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit)
+- [x] [Interfacing with UIKit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit) ✅ 2024-10-19
 - [ ] [Creating a watchOS app](https://developer.apple.com/tutorials/swiftui/creating-a-watchos-app)
 - [ ] [Creating a macOS app](https://developer.apple.com/tutorials/swiftui/creating-a-macos-app)
