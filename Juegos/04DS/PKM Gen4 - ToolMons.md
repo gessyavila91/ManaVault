@@ -1,4 +1,5 @@
 https://www.pokencyclopedia.info/en/index.php?id=sprites/menu-icons/ico_3ds
+https://www.pokencyclopedia.info/en/index.php?id=sprites/menu-icons/ico_3ds_shiny-recolored
 
 
 |dNúmero|Nombre|Tarea|Movimientos|Naturaleza/Habilidad|
