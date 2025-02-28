@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "16b444a8ff8c5d9e",
+        "id": "0d996ffa3d7f9f7e",
         "type": "tabs",
         "children": [
           {
-            "id": "c4e59d1b24e56c1c",
+            "id": "26d3d9ea790fabb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devs/IOS/DEV - Swift120 - SwiftUI Tutorial.md",
+                "file": "Health/HLTH - Weight Tracker and forecast.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DEV - Swift120 - SwiftUI Tutorial"
+              "title": "HLTH - Weight Tracker and forecast"
+            }
+          },
+          {
+            "id": "8bc5d45fc4190518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Health/HLTH - Dieta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HLTH - Dieta"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,10 +55,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -77,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9bbed511a6469db6",
@@ -153,7 +168,7 @@
               "type": "calendar",
               "state": {},
               "icon": "lucide-file",
-              "title": "Complemento no activo"
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -163,7 +178,7 @@
               "type": "git-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "Complemento no activo"
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -173,11 +188,21 @@
               "type": "timeline",
               "state": {},
               "icon": "lucide-file",
-              "title": "Complemento no activo"
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "6b44b728d9c47367",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "79f13e916a7e7f52",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -196,60 +221,60 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "switcher:Abrir selector rápido": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Timeline": false,
       "templater-obsidian:Templater": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "c4e59d1b24e56c1c",
+  "active": "8bc5d45fc4190518",
   "lastOpenFiles": [
+    "Health/HLTH - Dieta.md",
+    "Devs/DEV - Conventional Commit CS.md",
+    "Health/HLTH - Weight Tracker and forecast.md",
+    "Devs/Best Practices/DEV - (WIP) GildedRose-Refactoring-Kata Process Steps.md",
+    "Devs/Best Practices/DEV - Refactoring.md",
+    "Devs/Best Practices/DEV - (WIP) Comprehensive Guide of refactoring for GildedRose.md",
+    "Devs/Best Practices/DEV - (WIP) Guía para Implementar Refactorización aplicando principios SOLID y mejores prácticas.md",
+    "Devs/Code Documentation template.md",
+    "Devs/DEV - Programacion 🖥️.md",
+    "Devs/Best Practices",
+    "SandBox.md",
+    "Devs/Web/LRVL - Laravel/LRVL - Cheat Sheets/LRVL - Routes.md",
+    "Devs/Web/LRVL - Laravel/LRVL - Cronograma de Estudios.md",
+    "Series a ver.md",
+    "Devs/Web/Projecto/DEV - Laravel Resume - Gessy.md",
+    "Health",
+    "Devs/docker/DCKR - notes.md",
+    "Devs/Web/Projecto",
+    "Devs/docker",
+    "Devs/DEV - Ideas millonarias.md",
+    "Devs/Web/LRVL - Laravel/LRVL - Laravel.md",
+    "Devs/Web/LRVL - Laravel/LRVL - Cheat Sheets",
+    "Juegos/02GBC/Games/PKM Gen2 - Cristal 3DS TID SID.md",
+    "Devs/Web/LRVL - Laravel/LRVL - Plan de Estudios Completo para Senior PHP Full Stack Developer (Laravel).md",
+    "Devs/Web/LRVL - Laravel",
+    "Devs/Web",
+    "Mecanografia ⌨️.md",
+    "Devs/IOS/DEV - Swift120 - SwiftUI Tutorial.md",
     "daily notes/2024-10-16.md",
     "Juegos/04DS/PKM Gen4 - ToolMons.md",
     "Juegos/04DS/Games/PKM Gen 4 - Encounters.md",
     "Devs/IOS/DEV - Swift110 - Develop in Swift.md",
     "DataTableViewer.md",
-    "templater/daily_note_autamator.md",
-    "Devs/IOS/DEV - Swift000 - APPLE IOS DEVELOPER ROADMAP.md",
-    "Devs/DEV - Ideas millonarias.md",
-    "Devs/DEV - Programacion 🖥️.md",
-    "daily notes/2024-10-09.md",
-    "daily notes/2024-10-06.md",
-    "config/Blueprint/Blueprint.md",
-    "config/Blueprint/BP - Scheduler.md",
-    "config/Blueprint/BP - Task List.md",
-    "config/Blueprint/horarios.md",
-    "config/schemas/SHM - WeekPlanerYAML.md",
-    "config/schemas/SHM - Daily Task.md",
-    "Blueprint/Task List.md",
-    "Blueprint/BLP - Scheduler.md",
-    "Juegos/03GBA/PKM Gen3 - Team Competitivo.md",
-    "Devs/IOS/DEV - Swift130 - Develop apps for Apple platforms.md",
-    "Devs/IOS/DEV - Swift120 - SwiftUI Tutorial.md",
-    "Juegos/03GBA/PKM Gen3 - ToolMons.md",
-    "Juegos/PKM/PKM - Index.md",
-    "Juegos/04DS/Games/PKM Gen4 - SoulSilver retroachievements.md",
-    "Juegos/PKM/PKM - General Challenge.md",
     "Juegos/Resources/img/ico-a_old_043.gif",
     "Juegos/02GBC/Games",
     "Juegos/02GBC",
     "Juegos/03GBA/Games",
-    "Juegos/04DS/Games",
     "Juegos/Resources/img/Pasted image 20241018182308.png",
-    "Juegos/PKM",
-    "Obsidian Wishes",
-    "Devs/IOS",
-    "Music",
     "Juegos/Resources/img/2024-10-09_23-25-16.gif",
     "Juegos/Resources/img/129 ★ - MAGIKARP - Gentle [128] - 4AF4DD02.png",
-    "Juegos/04DS",
-    "Juegos/Resources/img",
     "Sin título.canvas",
     "Pasted image 20241003003006.png",
     "Juegos/Resources/img/ico-a_old_286.gif",

@@ -20,40 +20,56 @@
     "Devs": {
       "icon": "lucide-code-square",
       "unsynced": [
-        "6c86e9d03587aadb"
-      ]
+        "6c86e9d03587aadb",
+        "d0b0cfaef156f31c"
+      ],
+      "color": "orange"
     },
     "Devs/IOS": {
       "icon": "lucide-apple",
       "unsynced": [
-        "6c86e9d03587aadb"
+        "6c86e9d03587aadb",
+        "d0b0cfaef156f31c"
       ],
       "color": "orange"
     },
-    "Juegos": {
-      "icon": "lucide-gamepad",
+    "Health": {
+      "icon": "lucide-cross",
       "unsynced": [
-        "6c86e9d03587aadb"
-      ]
+        "d0b0cfaef156f31c"
+      ],
+      "color": "green"
+    },
+    "Juegos": {
+      "icon": "lucide-gamepad-2",
+      "unsynced": [
+        "6c86e9d03587aadb",
+        "d0b0cfaef156f31c"
+      ],
+      "color": "cyan"
     },
     "Music": {
       "icon": "lucide-music",
       "unsynced": [
-        "6c86e9d03587aadb"
+        "6c86e9d03587aadb",
+        "d0b0cfaef156f31c"
       ],
       "color": "green"
     },
     "config": {
       "icon": "lucide-folder-cog-2",
       "unsynced": [
-        "6c86e9d03587aadb"
+        "6c86e9d03587aadb",
+        "d0b0cfaef156f31c"
       ]
     },
     "daily notes": {
       "icon": "lucide-calendar-check",
       "unsynced": [
-        "6c86e9d03587aadb"
-      ]
+        "6c86e9d03587aadb",
+        "d0b0cfaef156f31c"
+      ],
+      "color": "red"
     }
   },
   "bookmarkIcons": {},

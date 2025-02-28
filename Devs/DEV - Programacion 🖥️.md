@@ -9,6 +9,9 @@ Se esta maquilando proyectos para ayudar mi meta de armar y jugar pokemon en pri
 # Planing
 [[DEV - Ideas millonarias]]
 
+# Best Practices
+
+[[DEV - Refactoring]] 
 
 
 
