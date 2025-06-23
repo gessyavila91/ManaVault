@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0d996ffa3d7f9f7e",
+        "id": "89df32d3cee07620",
         "type": "tabs",
         "children": [
           {
-            "id": "26d3d9ea790fabb5",
+            "id": "b2e8f0d6450ad186",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Health/HLTH - Weight Tracker and forecast.md",
+                "file": "daily notes/2024-09-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HLTH - Weight Tracker and forecast"
+              "title": "2024-09-14"
             }
           },
           {
-            "id": "8bc5d45fc4190518",
+            "id": "e063f137ff89f16e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Health/HLTH - Dieta.md",
+                "file": "Music/Guitar Bass/idx - Bass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HLTH - Dieta"
+              "title": "idx - Bass"
             }
           }
         ],
@@ -187,8 +187,8 @@
             "state": {
               "type": "timeline",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           },
           {
@@ -233,19 +233,29 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8bc5d45fc4190518",
+  "active": "e063f137ff89f16e",
   "lastOpenFiles": [
-    "Health/HLTH - Dieta.md",
+    "Music/Guitar Bass/idx - Bass.md",
+    "Music/Guitar Bass",
+    "daily notes/2024-09-17.md",
+    "daily notes/2024-10-05.md",
+    "daily notes/2024-10-06.md",
+    "daily notes/2024-10-09.md",
+    "daily notes/2024-10-16.md",
+    "templater/daily_note_autamator.md",
+    "Templated/daily-note.md",
+    "Devs/DEV - Ideas millonarias.md",
     "Devs/DEV - Conventional Commit CS.md",
-    "Health/HLTH - Weight Tracker and forecast.md",
-    "Devs/Best Practices/DEV - (WIP) GildedRose-Refactoring-Kata Process Steps.md",
-    "Devs/Best Practices/DEV - Refactoring.md",
-    "Devs/Best Practices/DEV - (WIP) Comprehensive Guide of refactoring for GildedRose.md",
-    "Devs/Best Practices/DEV - (WIP) Guía para Implementar Refactorización aplicando principios SOLID y mejores prácticas.md",
-    "Devs/Code Documentation template.md",
     "Devs/DEV - Programacion 🖥️.md",
-    "Devs/Best Practices",
+    "Devs/Best Practices/DEV - (WIP) Guía para Implementar Refactorización aplicando principios SOLID y mejores prácticas.md",
+    "Devs/Best Practices/DEV - (WIP) Comprehensive Guide of refactoring for GildedRose.md",
+    "Devs/Best Practices/DEV - (WIP) GildedRose-Refactoring-Kata Process Steps.md",
     "SandBox.md",
+    "Health/HLTH - Dieta.md",
+    "Health/HLTH - Weight Tracker and forecast.md",
+    "Devs/Best Practices/DEV - Refactoring.md",
+    "Devs/Code Documentation template.md",
+    "Devs/Best Practices",
     "Devs/Web/LRVL - Laravel/LRVL - Cheat Sheets/LRVL - Routes.md",
     "Devs/Web/LRVL - Laravel/LRVL - Cronograma de Estudios.md",
     "Series a ver.md",
@@ -254,24 +264,14 @@
     "Devs/docker/DCKR - notes.md",
     "Devs/Web/Projecto",
     "Devs/docker",
-    "Devs/DEV - Ideas millonarias.md",
     "Devs/Web/LRVL - Laravel/LRVL - Laravel.md",
     "Devs/Web/LRVL - Laravel/LRVL - Cheat Sheets",
     "Juegos/02GBC/Games/PKM Gen2 - Cristal 3DS TID SID.md",
-    "Devs/Web/LRVL - Laravel/LRVL - Plan de Estudios Completo para Senior PHP Full Stack Developer (Laravel).md",
     "Devs/Web/LRVL - Laravel",
     "Devs/Web",
-    "Mecanografia ⌨️.md",
-    "Devs/IOS/DEV - Swift120 - SwiftUI Tutorial.md",
-    "daily notes/2024-10-16.md",
-    "Juegos/04DS/PKM Gen4 - ToolMons.md",
-    "Juegos/04DS/Games/PKM Gen 4 - Encounters.md",
-    "Devs/IOS/DEV - Swift110 - Develop in Swift.md",
-    "DataTableViewer.md",
     "Juegos/Resources/img/ico-a_old_043.gif",
     "Juegos/02GBC/Games",
     "Juegos/02GBC",
-    "Juegos/03GBA/Games",
     "Juegos/Resources/img/Pasted image 20241018182308.png",
     "Juegos/Resources/img/2024-10-09_23-25-16.gif",
     "Juegos/Resources/img/129 ★ - MAGIKARP - Gentle [128] - 4AF4DD02.png",

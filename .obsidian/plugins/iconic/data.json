@@ -56,6 +56,13 @@
       ],
       "color": "green"
     },
+    "Music/Guitar Bass": {
+      "icon": "lucide-guitar",
+      "color": "orange",
+      "unsynced": [
+        "d0b0cfaef156f31c"
+      ]
+    },
     "config": {
       "icon": "lucide-folder-cog-2",
       "unsynced": [
